@@ -1,0 +1,10 @@
+# 构建产物（发布到 dist 分支的根目录，不提交到 main）
+/dist/
+
+# 上游图标本体约 30MB，通过 CDN 直连，不入库；
+# 构建只需要文件名清单 .github/logo-index.txt（由 sync.yml 自动生成）
+/logo/
+
+__pycache__/
+*.pyc
+.DS_Store

@@ -1,0 +1,143 @@
+name: Sync upstream
+
+# 定时检查 xisohi/CHINA-IPTV 是否有新提交；有则把源码文件同步到本仓库并推送，
+# 推送后 build-with-logos.yml 会自动运行，生成带频道图标的新文件。
+
+on:
+  schedule:
+    # 每 2 小时的第 17 分钟检查一次（GitHub 定时任务在高峰期可能延迟数分钟到数十分钟）
+    - cron: "17 */2 * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 即使上游没有更新也强制同步一次
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-upstream
+  cancel-in-progress: false
+
+env:
+  UPSTREAM_REPO: xisohi/CHINA-IPTV
+  UPSTREAM_BRANCH: main
+  # 需要从上游镜像到本仓库的路径（目录整体镜像、含删除；文件直接覆盖）
+  # 注意：logo/ 不镜像（30MB 的 PNG 没必要进 git），只从上游生成文件名清单 .github/logo-index.txt
+  SYNC_PATHS: Unicast Multicast TV 分省模板 e.xml
+  # 上游 README 单独另存，避免覆盖本仓库自己的 README.md
+  UPSTREAM_README: README.upstream.md
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout this repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fetch upstream
+        id: upstream
+        run: |
+          set -euo pipefail
+          git remote add upstream "https://github.com/${UPSTREAM_REPO}.git" 2>/dev/null || true
+          git fetch --no-tags --depth=1 upstream "$UPSTREAM_BRANCH"
+          sha=$(git rev-parse FETCH_HEAD)
+          echo "sha=$sha" >> "$GITHUB_OUTPUT"
+          echo "上游 ${UPSTREAM_REPO}@${UPSTREAM_BRANCH} = $sha"
+
+          prev=""
+          [ -f .upstream-sha ] && prev=$(tr -d '[:space:]' < .upstream-sha)
+          echo "上次同步 = ${prev:-<无>}"
+
+          if [ "$sha" = "$prev" ] && [ "${{ inputs.force }}" != "true" ]; then
+            echo "上游无变化，跳过同步"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "### 上游无变化" >> "$GITHUB_STEP_SUMMARY"
+            echo "上游当前提交 \`$sha\` 已于上次同步，本次无需处理。" >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Mirror upstream files
+        if: steps.upstream.outputs.changed == 'true'
+        run: |
+          set -euo pipefail
+          git worktree add --detach /tmp/upstream FETCH_HEAD
+          for path in $SYNC_PATHS; do
+            src="/tmp/upstream/$path"
+            if [ -d "$src" ]; then
+              mkdir -p "$path"
+              # 注意源目录必须以 / 结尾，否则 rsync 会在目标下再套一层同名目录
+              rsync -a --delete "$src/" "$path/"
+              echo "已同步目录 $path（$(find "$path" -type f | wc -l | tr -d ' ') 个文件）"
+            elif [ -f "$src" ]; then
+              mkdir -p "$(dirname "$path")"
+              cp -f "$src" "$path"
+              echo "已同步文件 $path"
+            else
+              echo "上游不存在 $path，跳过"
+            fi
+          done
+          if [ -f /tmp/upstream/README.md ]; then
+            cp -f /tmp/upstream/README.md "$UPSTREAM_README"
+            echo "已同步文件 $UPSTREAM_README"
+          fi
+
+          # 图标本体走 CDN，不入库；这里只记录上游 logo/ 里有哪些文件名
+          if [ -d /tmp/upstream/logo ]; then
+            mkdir -p .github
+            (cd /tmp/upstream/logo && ls -1 \
+              | grep -Ei '\.(png|jpe?g|webp)$' \
+              | LC_ALL=C sort) > .github/logo-index.txt
+            echo "已生成图标清单 .github/logo-index.txt（$(wc -l < .github/logo-index.txt | tr -d ' ') 个）"
+          fi
+
+          git worktree remove --force /tmp/upstream
+          echo "${{ steps.upstream.outputs.sha }}" > .upstream-sha
+
+      - name: Guard against upstream removals
+        if: steps.upstream.outputs.changed == 'true'
+        run: |
+          set -euo pipefail
+          for path in Unicast Multicast TV; do
+            if [ ! -d "$path" ] || [ -z "$(find "$path" -name '*.txt' -print -quit)" ]; then
+              echo "::error::$path 同步后为空或缺失，可能上游结构调整，已中止以免清空数据"
+              exit 1
+            fi
+          done
+
+      - name: Commit and push
+        if: steps.upstream.outputs.changed == 'true'
+        id: commit
+        run: |
+          set -euo pipefail
+          sha="${{ steps.upstream.outputs.sha }}"
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "上游提交变了但文件内容没变，只更新同步标记"
+            git commit -m "chore(sync): 记录上游提交 ${sha:0:7}" || true
+          else
+            git commit -m "chore(sync): 同步上游 ${sha:0:7}"
+          fi
+          git push origin HEAD:"${GITHUB_REF_NAME:-main}"
+          echo "pushed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Summary
+        run: |
+          {
+            echo "### 上游同步结果"
+            echo ""
+            echo "- 上游提交：\`${{ steps.upstream.outputs.sha }}\`"
+            echo "- 是否变更：${{ steps.upstream.outputs.changed }}"
+            echo "- 同步路径：\`$SYNC_PATHS\`"
+            echo "- 图标清单：\`.github/logo-index.txt\`（$(wc -l < .github/logo-index.txt 2>/dev/null || echo 0) 个图标，图标本体直连上游 CDN，不入库）"
+            echo ""
+            echo "如发生推送，[生成带图标的产物](../../actions/workflows/build-with-logos.yml) 会自动开始运行。"
+          } >> "$GITHUB_STEP_SUMMARY"

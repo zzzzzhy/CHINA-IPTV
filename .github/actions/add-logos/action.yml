@@ -1,0 +1,73 @@
+name: Add channel logos
+description: >-
+  扫描仓库内的直播源（Unicast/、Multicast/、TV/live.txt），为每个频道匹配 logo/ 中的图标，
+  生成带 tvg-logo 的 M3U 与 DIYP/TVBox 风格的 TXT，可选生成带 <icon> 的 EPG。
+
+inputs:
+  root:
+    description: 仓库根目录（相对于工作区）
+    required: false
+    default: "."
+  out:
+    description: 产物输出目录（相对于 root）
+    required: false
+    default: "dist"
+  logo-base:
+    description: >-
+      图标 URL 前缀（不含结尾斜杠）。留空则指向上游 xisohi/CHINA-IPTV 的 logo/ 目录
+      （图标本体不入库，走 jsDelivr CDN 直连上游）。
+    required: false
+    default: ""
+  max-urls:
+    description: iptv.m3u 中每个频道保留的最大地址数，0 表示不限
+    required: false
+    default: "5"
+  epg-icons:
+    description: 是否额外生成带 <icon> 的 epg.xml（true/false）
+    required: false
+    default: "false"
+
+outputs:
+  out:
+    description: 产物目录
+    value: ${{ steps.run.outputs.out }}
+  coverage:
+    description: 图标覆盖率摘要（形如 21800/29154 74.8%）
+    value: ${{ steps.run.outputs.coverage }}
+
+runs:
+  using: composite
+  steps:
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.12"
+
+    - name: Generate playlists with logos
+      id: run
+      shell: bash
+      working-directory: ${{ inputs.root }}
+      env:
+        IN_ROOT: ${{ inputs.root }}
+        IN_OUT: ${{ inputs.out }}
+        IN_LOGO_BASE: ${{ inputs.logo-base }}
+        IN_MAX_URLS: ${{ inputs.max-urls }}
+        IN_EPG_ICONS: ${{ inputs.epg-icons }}
+        REPO_SLUG: ${{ github.repository }}
+      run: |
+        set -euo pipefail
+        logo_base="$IN_LOGO_BASE"
+        if [ -z "$logo_base" ]; then
+          # 图标本体不入库，默认直连上游 logo/ 目录
+          logo_base="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo"
+        fi
+        args=(--root "$IN_ROOT" --out "$IN_OUT" --logo-base "$logo_base" --max-urls "$IN_MAX_URLS")
+        if [ "$IN_EPG_ICONS" = "true" ]; then
+          args+=(--epg-icons)
+        fi
+        python3 .github/scripts/add_logos.py "${args[@]}"
+
+        echo "out=$IN_OUT" >> "$GITHUB_OUTPUT"
+        line=$(grep -m1 '^有图标行数:' "$IN_OUT/logo-coverage.txt" || true)
+        echo "coverage=$line" >> "$GITHUB_OUTPUT"
+        echo "::notice::$line"

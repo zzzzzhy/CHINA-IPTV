@@ -1,0 +1,125 @@
+name: Build with logos
+
+# 上游同步（Sync upstream）完成后自动运行：扫描所有直播源，补全频道图标，
+# 生成新的 M3U / TXT 产物，发布到 `dist` 分支（每次覆盖，只保留最新快照，不膨胀历史）。
+# 直接修改仓库里的直播源或 logo 也会触发。
+#
+# 产物访问地址（raw 直链，可直接填进播放器）：
+#   https://raw.githubusercontent.com/<owner>/<repo>/dist/iptv.m3u
+#   https://cdn.jsdelivr.net/gh/<owner>/<repo>@dist/iptv.m3u
+
+on:
+  workflow_run:
+    workflows: ["Sync upstream"]
+    types: [completed]
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      max-urls:
+        description: 每个频道保留的最大地址数（0 = 不限）
+        type: string
+        default: "5"
+      epg-icons:
+        description: 是否额外生成带图标 <icon> 的 epg.xml
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-with-logos
+  cancel-in-progress: true
+
+jobs:
+  build:
+    # 同步流程失败或取消时不生成产物，避免用残缺数据覆盖上一版
+    if: >-
+      github.event_name != 'workflow_run'
+      || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      MAX_URLS: ${{ github.event.inputs.max-urls || '5' }}
+      EPG_ICONS: ${{ github.event.inputs.epg-icons == 'true' && 'true' || 'false' }}
+      # 图标直连上游 logo 目录（本仓库 main 也镜像了一份，用上游可保证图标最新）
+      LOGO_BASE: https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo
+
+    steps:
+      - name: Checkout sources
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Skip loop (dist-branch builds and dist-only commits)
+        id: guard
+        run: |
+          msg=$(git log -1 --pretty=%s)
+          echo "最新提交: $msg"
+          case "$msg" in
+            "chore(dist):"*) echo "run=false" >> "$GITHUB_OUTPUT" ;;
+            *)               echo "run=true"  >> "$GITHUB_OUTPUT" ;;
+          esac
+
+      - name: Generate playlists with channel logos
+        if: steps.guard.outputs.run == 'true'
+        id: logos
+        uses: ./.github/actions/add-logos
+        with:
+          out: dist
+          logo-base: ${{ env.LOGO_BASE }}
+          max-urls: ${{ env.MAX_URLS }}
+          epg-icons: ${{ env.EPG_ICONS }}
+
+      - name: Upload artifacts
+        if: steps.guard.outputs.run == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: iptv-with-logos
+          path: dist/
+          retention-days: 14
+          if-no-files-found: error
+
+      - name: Publish to dist branch
+        if: steps.guard.outputs.run == 'true'
+        run: |
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # 用孤儿提交承载产物：dist 分支只保留最新一份快照，避免每天几十 MB 的历史堆积。
+          # 借 --work-tree=dist 把产物内容直接放到分支根目录，
+          # 这样 raw/CDN 地址就是 `<分支>/iptv.m3u`，不带 dist/ 前缀。
+          git checkout --orphan dist-publish
+          git rm -r --cached . >/dev/null
+          git --work-tree=dist add -A -f .
+          git commit -q -m "chore(dist): 生成带图标的产物 $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push --force origin dist-publish:dist
+
+      - name: Summary
+        if: steps.guard.outputs.run == 'true'
+        run: |
+          repo="${GITHUB_REPOSITORY}"
+          {
+            echo "### 生成结果"
+            echo ""
+            echo "- 图标覆盖：${{ steps.logos.outputs.coverage }}"
+            echo "- 产物已发布到 \`dist\` 分支根目录（每次构建覆盖，只保留最新快照）"
+            echo ""
+            echo "| 文件 | 说明 |"
+            echo "| --- | --- |"
+            echo "| \`iptv.m3u\` | 推荐：全量源，每频道限 ${MAX_URLS} 个地址，带 tvg-logo |"
+            echo "| \`iptv-full.m3u\` | 全量源，不限地址数 |"
+            echo "| \`iptv.txt\` | DIYP / TVBox 风格 |"
+            echo "| \`unicast/\` \`multicast/\` | 分省分运营商 |"
+            echo "| \`logo-coverage.txt\` | 覆盖率与未匹配频道清单 |"
+            echo ""
+            echo "订阅地址："
+            echo ""
+            echo '```'
+            echo "https://raw.githubusercontent.com/${repo}/dist/iptv.m3u"
+            echo "https://cdn.jsdelivr.net/gh/${repo}@dist/iptv.m3u"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
