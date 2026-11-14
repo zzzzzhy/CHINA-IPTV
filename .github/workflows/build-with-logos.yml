@@ -59,12 +59,50 @@ jobs:
           msg=$(git log -1 --pretty=%s)
           echo "最新提交: $msg"
           case "$msg" in
-            "chore(dist):"*) echo "run=false" >> "$GITHUB_OUTPUT" ;;
-            *)               echo "run=true"  >> "$GITHUB_OUTPUT" ;;
+            # 产物提交永远不会出现在 main 上，这里只作为防循环的保险
+            "chore(dist):"*)
+              echo "run=false" >> "$GITHUB_OUTPUT"
+              echo "### 跳过：产物提交不触发构建" >> "$GITHUB_STEP_SUMMARY"
+              ;;
+            # 同步提交由 Sync upstream 的 workflow_run 负责构建，push 这一次不重复跑
+            "chore(sync):"*)
+              if [ "$GITHUB_EVENT_NAME" = "push" ]; then
+                echo "run=false" >> "$GITHUB_OUTPUT"
+                echo "### 跳过：同步提交交由 workflow_run 构建" >> "$GITHUB_STEP_SUMMARY"
+              else
+                echo "run=true" >> "$GITHUB_OUTPUT"
+              fi
+              ;;
+            *) echo "run=true" >> "$GITHUB_OUTPUT" ;;
           esac
 
-      - name: Generate playlists with channel logos
+      - name: Check whether sources changed since last build
+        id: freshness
         if: steps.guard.outputs.run == 'true'
+        run: |
+          set -euo pipefail
+          if [ "$GITHUB_EVENT_NAME" != "workflow_run" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          current=""
+          [ -f .upstream-sha ] && current=$(tr -d '[:space:]' < .upstream-sha)
+          last=""
+          if git fetch -q --depth=1 origin dist 2>/dev/null; then
+            last=$(git show FETCH_HEAD:.source-sha 2>/dev/null | tr -d '[:space:]' || true)
+          fi
+          echo "源码版本: ${current:-<无>} / 上次构建: ${last:-<无>}"
+          if [ -n "$current" ] && [ "$current" = "$last" ]; then
+            echo "run=false" >> "$GITHUB_OUTPUT"
+            echo "依赖的源码没有变化，跳过本次构建"
+            echo "### 跳过：源码未变化" >> "$GITHUB_STEP_SUMMARY"
+            echo "上游源码仍是 \`$current\`，\`dist\` 分支已是最新，无需重新生成。" >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Generate playlists with channel logos
+        if: steps.guard.outputs.run == 'true' && steps.freshness.outputs.run == 'true'
         id: logos
         uses: ./.github/actions/add-logos
         with:
@@ -74,7 +112,7 @@ jobs:
           epg-icons: ${{ env.EPG_ICONS }}
 
       - name: Upload artifacts
-        if: steps.guard.outputs.run == 'true'
+        if: steps.guard.outputs.run == 'true' && steps.freshness.outputs.run == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: iptv-with-logos
@@ -83,11 +121,18 @@ jobs:
           if-no-files-found: error
 
       - name: Publish to dist branch
-        if: steps.guard.outputs.run == 'true'
+        if: steps.guard.outputs.run == 'true' && steps.freshness.outputs.run == 'true'
         run: |
           set -euo pipefail
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # 记录本次产物对应的源码版本，下次构建前比对，源码没变就不重复生成
+          if [ -f .upstream-sha ]; then
+            cp -f .upstream-sha dist/.source-sha
+          else
+            git rev-parse HEAD > dist/.source-sha
+          fi
 
           # 用孤儿提交承载产物：dist 分支只保留最新一份快照，避免每天几十 MB 的历史堆积。
           # 借 --work-tree=dist 把产物内容直接放到分支根目录，
@@ -99,7 +144,7 @@ jobs:
           git push --force origin dist-publish:dist
 
       - name: Summary
-        if: steps.guard.outputs.run == 'true'
+        if: steps.guard.outputs.run == 'true' && steps.freshness.outputs.run == 'true'
         run: |
           repo="${GITHUB_REPOSITORY}"
           {
