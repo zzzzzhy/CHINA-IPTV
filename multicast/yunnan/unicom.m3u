@@ -1,0 +1,26 @@
+#EXTM3U
+# 由 zzzzzhy/CHINA-IPTV 自动生成：同步上游 + 补全频道图标
+#EXTINF:-1 tvg-id="338" tvg-name="云南都市" group-title="联通" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E4%BA%91%E5%8D%97%E9%83%BD%E5%B8%82.png",云南都市
+rtp://225.0.1.88:5000
+#EXTINF:-1 tvg-name="云南少儿" group-title="联通",云南少儿
+rtp://225.0.1.92:5000
+#EXTINF:-1 tvg-name="云南影视" group-title="联通" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E4%BA%91%E5%8D%97%E5%BD%B1%E8%A7%86.png",云南影视
+rtp://225.0.1.80:5000
+#EXTINF:-1 tvg-name="康旅频道" group-title="联通",康旅频道
+rtp://225.0.1.91:5000
+#EXTINF:-1 tvg-name="湄澜国际" group-title="联通",湄澜国际
+rtp://225.0.1.170:5000
+#EXTINF:-1 tvg-name="云南移动" group-title="联通",云南移动
+rtp://225.0.1.143:5000
+#EXTINF:-1 tvg-id="339" tvg-name="云南娱乐" group-title="联通" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E4%BA%91%E5%8D%97%E5%A8%B1%E4%B9%90.png",云南娱乐
+rtp://225.0.1.81:5000
+#EXTINF:-1 tvg-name="昆明新闻" group-title="联通",昆明新闻
+rtp://238.123.50.70:8500
+#EXTINF:-1 tvg-name="昆明教育" group-title="联通",昆明教育
+rtp://238.123.50.72:8508
+#EXTINF:-1 tvg-name="昆明春城" group-title="联通",昆明春城
+rtp://238.123.50.75:8520
+#EXTINF:-1 tvg-name="昆明经济" group-title="联通",昆明经济
+rtp://238.123.50.71:8504
+#EXTINF:-1 tvg-name="昆明影视" group-title="联通",昆明影视
+rtp://238.123.50.74:8516

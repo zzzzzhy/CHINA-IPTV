@@ -1,0 +1,474 @@
+#EXTM3U
+# 由 zzzzzhy/CHINA-IPTV 自动生成：同步上游 + 补全频道图标
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV1.png",CCTV1
+http://39.134.33.101:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&Contentid=9900000501&livemode=1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV1.png",CCTV1
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000501/index.m3u8?channel-id=newtv&Contentid=9900000501&livemode=1
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV2.png",CCTV2
+http://39.134.33.101:6610/270000001128/9900000502/index.m3u8?channel-id=newtv&Contentid=9900000502&livemode=1
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV2.png",CCTV2
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000502/index.m3u8?channel-id=newtv&Contentid=9900000502&livemode=1
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV3.png",CCTV3
+http://39.134.33.101:6610/270000001128/9900000003/index.m3u8?channel-id=newtv&Contentid=9900000003&livemode=1
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV3.png",CCTV3
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000003/index.m3u8?channel-id=newtv&Contentid=9900000003&livemode=1
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV4.png",CCTV4
+http://39.134.33.101:6610/270000001128/9900000503/index.m3u8?channel-id=newtv&Contentid=9900000503&livemode=1
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV4.png",CCTV4
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000503/index.m3u8?channel-id=newtv&Contentid=9900000503&livemode=1
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV5.png",CCTV5
+http://39.134.33.101:6610/270000001128/9900000005/index.m3u8?channel-id=newtv&Contentid=9900000005&livemode=1
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV5.png",CCTV5
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000005/index.m3u8?channel-id=newtv&Contentid=9900000005&livemode=1
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV5%2B.png",CCTV5+
+http://39.134.33.101:6610/270000001128/9900000507/index.m3u8?channel-id=newtv&Contentid=9900000507&livemode=1
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV5%2B.png",CCTV5+
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000507/index.m3u8?channel-id=newtv&Contentid=9900000507&livemode=1
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV6.png",CCTV6
+http://39.134.33.101:6610/270000001128/9900000006/index.m3u8?channel-id=newtv&Contentid=9900000006&livemode=1
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV6.png",CCTV6
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000006/index.m3u8?channel-id=newtv&Contentid=9900000006&livemode=1
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV7.png",CCTV7
+http://39.134.33.101:6610/270000001128/9900000504/index.m3u8?channel-id=newtv&Contentid=9900000504&livemode=1
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV7.png",CCTV7
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000504/index.m3u8?channel-id=newtv&Contentid=9900000504&livemode=1
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV8.png",CCTV8
+http://39.134.33.101:6610/270000001128/9900000008/index.m3u8?channel-id=newtv&Contentid=9900000008&livemode=1
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV8.png",CCTV8
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000008/index.m3u8?channel-id=newtv&Contentid=9900000008&livemode=1
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV9.png",CCTV9
+http://39.134.33.101:6610/270000001128/9900000505/index.m3u8?channel-id=newtv&Contentid=9900000505&livemode=1
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV9.png",CCTV9
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000505/index.m3u8?channel-id=newtv&Contentid=9900000505&livemode=1
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV10.png",CCTV10
+http://39.134.33.101:6610/270000001128/9900000506/index.m3u8?channel-id=newtv&Contentid=9900000506&livemode=1
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV10.png",CCTV10
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000506/index.m3u8?channel-id=newtv&Contentid=9900000506&livemode=1
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV11.png",CCTV11
+http://39.134.33.101:6610/270000001128/9900000508/index.m3u8?channel-id=newtv&Contentid=9900000508&livemode=1
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV11.png",CCTV11
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000508/index.m3u8?channel-id=newtv&Contentid=9900000508&livemode=1
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV12.png",CCTV12
+http://39.134.33.101:6610/270000001128/9900000509/index.m3u8?channel-id=newtv&Contentid=9900000509&livemode=1
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV12.png",CCTV12
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000509/index.m3u8?channel-id=newtv&Contentid=9900000509&livemode=1
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV13.png",CCTV13
+http://39.134.33.101:6610/270000001128/9900000510/index.m3u8?channel-id=newtv&Contentid=9900000510&livemode=1
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV13.png",CCTV13
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000510/index.m3u8?channel-id=newtv&Contentid=9900000510&livemode=1
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV14.png",CCTV14
+http://39.134.33.101:6610/270000001128/9900000511/index.m3u8?channel-id=newtv&Contentid=9900000511&livemode=1
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV14.png",CCTV14
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000511/index.m3u8?channel-id=newtv&Contentid=9900000511&livemode=1
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV15.png",CCTV15
+http://39.134.33.101:6610/270000001128/9900000512/index.m3u8?channel-id=newtv&Contentid=9900000512&livemode=1
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV15.png",CCTV15
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000512/index.m3u8?channel-id=newtv&Contentid=9900000512&livemode=1
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV16.png",CCTV16
+http://39.134.33.101:6610/270000001128/9900000016/index.m3u8?channel-id=newtv&Contentid=9900000016&livemode=1
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV16.png",CCTV16
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000016/index.m3u8?channel-id=newtv&Contentid=9900000016&livemode=1
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV17.png",CCTV17
+http://39.134.33.101:6610/270000001128/9900000513/index.m3u8?channel-id=newtv&Contentid=9900000513&livemode=1
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV17.png",CCTV17
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000513/index.m3u8?channel-id=newtv&Contentid=9900000513&livemode=1
+#EXTINF:-1 tvg-id="87" tvg-name="安徽卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png",安徽卫视
+http://39.134.33.101:6610/270000001128/9900000514/index.m3u8?channel-id=newtv&Contentid=9900000514&livemode=1
+#EXTINF:-1 tvg-id="87" tvg-name="安徽卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png",安徽卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000514/index.m3u8?channel-id=newtv&Contentid=9900000514&livemode=1
+#EXTINF:-1 tvg-id="90" tvg-name="北京卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png",北京卫视
+http://39.134.33.101:6610/270000001128/9900000516/index.m3u8?channel-id=newtv&Contentid=9900000516&livemode=1
+#EXTINF:-1 tvg-id="90" tvg-name="北京卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png",北京卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000516/index.m3u8?channel-id=newtv&Contentid=9900000516&livemode=1
+#EXTINF:-1 tvg-id="77" tvg-name="重庆卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png",重庆卫视
+http://39.134.33.101:6610/270000001128/9900000517/index.m3u8?channel-id=newtv&Contentid=9900000517&livemode=1
+#EXTINF:-1 tvg-id="77" tvg-name="重庆卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png",重庆卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000517/index.m3u8?channel-id=newtv&Contentid=9900000517&livemode=1
+#EXTINF:-1 tvg-id="80" tvg-name="东方卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png",东方卫视
+http://39.134.33.101:6610/270000001128/9900000518/index.m3u8?channel-id=newtv&Contentid=9900000518&livemode=1
+#EXTINF:-1 tvg-id="80" tvg-name="东方卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png",东方卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000518/index.m3u8?channel-id=newtv&Contentid=9900000518&livemode=1
+#EXTINF:-1 tvg-id="99" tvg-name="甘肃卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png",甘肃卫视
+http://39.134.33.101:6610/270000001128/9900000023/index.m3u8?channel-id=newtv&Contentid=9900000023&livemode=1
+#EXTINF:-1 tvg-id="99" tvg-name="甘肃卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png",甘肃卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000023/index.m3u8?channel-id=newtv&Contentid=9900000023&livemode=1
+#EXTINF:-1 tvg-id="82" tvg-name="广东卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png",广东卫视
+http://39.134.33.101:6610/270000001128/9900000520/index.m3u8?channel-id=newtv&Contentid=9900000520&livemode=1
+#EXTINF:-1 tvg-id="82" tvg-name="广东卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png",广东卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000520/index.m3u8?channel-id=newtv&Contentid=9900000520&livemode=1
+#EXTINF:-1 tvg-id="103" tvg-name="广西卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png",广西卫视
+http://39.134.33.101:6610/270000001128/9900000034/index.m3u8?channel-id=newtv&Contentid=9900000034&livemode=1
+#EXTINF:-1 tvg-id="103" tvg-name="广西卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png",广西卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000034/index.m3u8?channel-id=newtv&Contentid=9900000034&livemode=1
+#EXTINF:-1 tvg-id="79" tvg-name="贵州卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png",贵州卫视
+http://39.134.33.101:6610/270000001128/9900000036/index.m3u8?channel-id=newtv&Contentid=9900000036&livemode=1
+#EXTINF:-1 tvg-id="79" tvg-name="贵州卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png",贵州卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000036/index.m3u8?channel-id=newtv&Contentid=9900000036&livemode=1
+#EXTINF:-1 tvg-id="97" tvg-name="海南卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png",海南卫视
+http://39.134.33.101:6610/270000001128/9900000037/index.m3u8?channel-id=newtv&Contentid=9900000037&livemode=1
+#EXTINF:-1 tvg-id="97" tvg-name="海南卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png",海南卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000037/index.m3u8?channel-id=newtv&Contentid=9900000037&livemode=1
+#EXTINF:-1 tvg-id="93" tvg-name="河北卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png",河北卫视
+http://39.134.33.101:6610/270000001128/9900000057/index.m3u8?channel-id=newtv&Contentid=9900000057&livemode=1
+#EXTINF:-1 tvg-id="93" tvg-name="河北卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png",河北卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000057/index.m3u8?channel-id=newtv&Contentid=9900000057&livemode=1
+#EXTINF:-1 tvg-id="100" tvg-name="河南卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png",河南卫视
+http://39.134.33.101:6610/270000001128/9900000027/index.m3u8?channel-id=newtv&Contentid=9900000027&livemode=1
+#EXTINF:-1 tvg-id="100" tvg-name="河南卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png",河南卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000027/index.m3u8?channel-id=newtv&Contentid=9900000027&livemode=1
+#EXTINF:-1 tvg-id="92" tvg-name="黑龙江卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",黑龙江卫视
+http://39.134.33.101:6610/270000001128/9900000521/index.m3u8?channel-id=newtv&Contentid=9900000521&livemode=1
+#EXTINF:-1 tvg-id="92" tvg-name="黑龙江卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",黑龙江卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000521/index.m3u8?channel-id=newtv&Contentid=9900000521&livemode=1
+#EXTINF:-1 tvg-id="85" tvg-name="湖北卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png",湖北卫视
+http://39.134.33.101:6610/270000001128/9900000522/index.m3u8?channel-id=newtv&Contentid=9900000522&livemode=1
+#EXTINF:-1 tvg-id="85" tvg-name="湖北卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png",湖北卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000522/index.m3u8?channel-id=newtv&Contentid=9900000522&livemode=1
+#EXTINF:-1 tvg-id="81" tvg-name="湖南卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png",湖南卫视
+http://39.134.33.101:6610/270000001128/9900000523/index.m3u8?channel-id=newtv&Contentid=9900000523&livemode=1
+#EXTINF:-1 tvg-id="81" tvg-name="湖南卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png",湖南卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000523/index.m3u8?channel-id=newtv&Contentid=9900000523&livemode=1
+#EXTINF:-1 tvg-id="98" tvg-name="吉林卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png",吉林卫视
+http://39.134.33.101:6610/270000001128/9900000030/index.m3u8?channel-id=newtv&Contentid=9900000030&livemode=1
+#EXTINF:-1 tvg-id="98" tvg-name="吉林卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png",吉林卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000030/index.m3u8?channel-id=newtv&Contentid=9900000030&livemode=1
+#EXTINF:-1 tvg-id="91" tvg-name="江苏卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png",江苏卫视
+http://39.134.33.101:6610/270000001128/9900000524/index.m3u8?channel-id=newtv&Contentid=9900000524&livemode=1
+#EXTINF:-1 tvg-id="91" tvg-name="江苏卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png",江苏卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000524/index.m3u8?channel-id=newtv&Contentid=9900000524&livemode=1
+#EXTINF:-1 tvg-id="95" tvg-name="江西卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png",江西卫视
+http://39.134.33.101:6610/270000001128/9900000525/index.m3u8?channel-id=newtv&Contentid=9900000525&livemode=1
+#EXTINF:-1 tvg-id="95" tvg-name="江西卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png",江西卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000525/index.m3u8?channel-id=newtv&Contentid=9900000525&livemode=1
+#EXTINF:-1 tvg-id="86" tvg-name="辽宁卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png",辽宁卫视
+http://39.134.33.101:6610/270000001128/9900000526/index.m3u8?channel-id=newtv&Contentid=9900000526&livemode=1
+#EXTINF:-1 tvg-id="86" tvg-name="辽宁卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png",辽宁卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000526/index.m3u8?channel-id=newtv&Contentid=9900000526&livemode=1
+#EXTINF:-1 tvg-id="101" tvg-name="内蒙古卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png",内蒙古卫视
+http://39.134.33.101:6610/270000001128/9900000044/index.m3u8?channel-id=newtv&Contentid=9900000044&livemode=1
+#EXTINF:-1 tvg-id="101" tvg-name="内蒙古卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png",内蒙古卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000044/index.m3u8?channel-id=newtv&Contentid=9900000044&livemode=1
+#EXTINF:-1 tvg-id="108" tvg-name="宁夏卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png",宁夏卫视
+http://39.134.33.101:6610/270000001128/9900000047/index.m3u8?channel-id=newtv&Contentid=9900000047&livemode=1
+#EXTINF:-1 tvg-id="108" tvg-name="宁夏卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png",宁夏卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000047/index.m3u8?channel-id=newtv&Contentid=9900000047&livemode=1
+#EXTINF:-1 tvg-id="104" tvg-name="青海卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png",青海卫视
+http://39.134.33.101:6610/270000001128/9900000042/index.m3u8?channel-id=newtv&Contentid=9900000042&livemode=1
+#EXTINF:-1 tvg-id="104" tvg-name="青海卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png",青海卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000042/index.m3u8?channel-id=newtv&Contentid=9900000042&livemode=1
+#EXTINF:-1 tvg-id="89" tvg-name="山东卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png",山东卫视
+http://39.134.33.101:6610/270000001128/9900000527/index.m3u8?channel-id=newtv&Contentid=9900000527&livemode=1
+#EXTINF:-1 tvg-id="89" tvg-name="山东卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png",山东卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000527/index.m3u8?channel-id=newtv&Contentid=9900000527&livemode=1
+#EXTINF:-1 tvg-id="109" tvg-name="山西卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png",山西卫视
+http://39.134.33.101:6610/270000001128/9900000053/index.m3u8?channel-id=newtv&Contentid=9900000053&livemode=1
+#EXTINF:-1 tvg-id="109" tvg-name="山西卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png",山西卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000053/index.m3u8?channel-id=newtv&Contentid=9900000053&livemode=1
+#EXTINF:-1 tvg-id="102" tvg-name="陕西卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png",陕西卫视
+http://39.134.33.101:6610/270000001128/9900000026/index.m3u8?channel-id=newtv&Contentid=9900000026&livemode=1
+#EXTINF:-1 tvg-id="102" tvg-name="陕西卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png",陕西卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000026/index.m3u8?channel-id=newtv&Contentid=9900000026&livemode=1
+#EXTINF:-1 tvg-id="83" tvg-name="深圳卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png",深圳卫视
+http://39.134.33.101:6610/270000001128/9900000529/index.m3u8?channel-id=newtv&Contentid=9900000529&livemode=1
+#EXTINF:-1 tvg-id="83" tvg-name="深圳卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png",深圳卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000529/index.m3u8?channel-id=newtv&Contentid=9900000529&livemode=1
+#EXTINF:-1 tvg-id="78" tvg-name="四川卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png",四川卫视
+http://39.134.33.101:6610/270000001128/9900000025/index.m3u8?channel-id=newtv&Contentid=9900000025&livemode=1
+#EXTINF:-1 tvg-id="78" tvg-name="四川卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png",四川卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000025/index.m3u8?channel-id=newtv&Contentid=9900000025&livemode=1
+#EXTINF:-1 tvg-id="84" tvg-name="天津卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png",天津卫视
+http://39.134.33.101:6610/270000001128/9900000530/index.m3u8?channel-id=newtv&Contentid=9900000530&livemode=1
+#EXTINF:-1 tvg-id="84" tvg-name="天津卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png",天津卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000530/index.m3u8?channel-id=newtv&Contentid=9900000530&livemode=1
+#EXTINF:-1 tvg-id="106" tvg-name="西藏卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png",西藏卫视
+http://39.134.33.101:6610/270000001128/9900000043/index.m3u8?channel-id=newtv&Contentid=9900000043&livemode=1
+#EXTINF:-1 tvg-id="106" tvg-name="西藏卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png",西藏卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000043/index.m3u8?channel-id=newtv&Contentid=9900000043&livemode=1
+#EXTINF:-1 tvg-id="105" tvg-name="新疆卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png",新疆卫视
+http://39.134.33.101:6610/270000001128/9900000045/index.m3u8?channel-id=newtv&Contentid=9900000045&livemode=1
+#EXTINF:-1 tvg-id="105" tvg-name="新疆卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png",新疆卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000045/index.m3u8?channel-id=newtv&Contentid=9900000045&livemode=1
+#EXTINF:-1 tvg-id="94" tvg-name="云南卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png",云南卫视
+http://39.134.33.101:6610/270000001128/9900000035/index.m3u8?channel-id=newtv&Contentid=9900000035&livemode=1
+#EXTINF:-1 tvg-id="94" tvg-name="云南卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png",云南卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000035/index.m3u8?channel-id=newtv&Contentid=9900000035&livemode=1
+#EXTINF:-1 tvg-id="88" tvg-name="浙江卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",浙江卫视
+http://39.134.33.101:6610/270000001128/9900000531/index.m3u8?channel-id=newtv&Contentid=9900000531&livemode=1
+#EXTINF:-1 tvg-id="88" tvg-name="浙江卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",浙江卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000531/index.m3u8?channel-id=newtv&Contentid=9900000531&livemode=1
+#EXTINF:-1 tvg-id="152" tvg-name="CETV2" group-title="教育" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CETV2.png",CETV2
+http://39.134.33.101:6610/270000001128/9900000071/index.m3u8?channel-id=newtv&Contentid=9900000071&livemode=1
+#EXTINF:-1 tvg-id="152" tvg-name="CETV2" group-title="教育" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CETV2.png",CETV2
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000071/index.m3u8?channel-id=newtv&Contentid=9900000071&livemode=1
+#EXTINF:-1 tvg-id="154" tvg-name="CETV4" group-title="教育" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CETV4.png",CETV4
+http://39.134.33.101:6610/270000001128/9900000072/index.m3u8?channel-id=newtv&Contentid=9900000072&livemode=1
+#EXTINF:-1 tvg-id="154" tvg-name="CETV4" group-title="教育" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CETV4.png",CETV4
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000072/index.m3u8?channel-id=newtv&Contentid=9900000072&livemode=1
+#EXTINF:-1 tvg-id="221" tvg-name="山东教育卫视" group-title="教育" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2.png",山东教育卫视
+http://39.134.33.101:6610/270000001128/9900000067/index.m3u8?channel-id=newtv&Contentid=9900000067&livemode=1
+#EXTINF:-1 tvg-id="221" tvg-name="山东教育卫视" group-title="教育" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2.png",山东教育卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000067/index.m3u8?channel-id=newtv&Contentid=9900000067&livemode=1
+#EXTINF:-1 tvg-id="136" tvg-name="北京纪实科教" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png",北京纪实科教
+http://39.134.33.101:6610/270000001128/9900000515/index.m3u8?channel-id=newtv&Contentid=9900000515&livemode=1
+#EXTINF:-1 tvg-id="136" tvg-name="北京纪实科教" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png",北京纪实科教
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000515/index.m3u8?channel-id=newtv&Contentid=9900000515&livemode=1
+#EXTINF:-1 tvg-id="96" tvg-name="东南卫视" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png",东南卫视
+http://39.134.33.101:6610/270000001128/9900000519/index.m3u8?channel-id=newtv&Contentid=9900000519&livemode=1
+#EXTINF:-1 tvg-id="96" tvg-name="东南卫视" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png",东南卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000519/index.m3u8?channel-id=newtv&Contentid=9900000519&livemode=1
+#EXTINF:-1 tvg-id="107" tvg-name="厦门卫视" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86.png",厦门卫视
+http://39.134.33.101:6610/270000001128/9900000058/index.m3u8?channel-id=newtv&Contentid=9900000058&livemode=1
+#EXTINF:-1 tvg-id="107" tvg-name="厦门卫视" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86.png",厦门卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000058/index.m3u8?channel-id=newtv&Contentid=9900000058&livemode=1
+#EXTINF:-1 tvg-id="159" tvg-name="嘉佳卡通" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png",嘉佳卡通
+http://39.134.33.101:6610/270000001128/9900000061/index.m3u8?channel-id=newtv&Contentid=9900000061&livemode=1
+#EXTINF:-1 tvg-id="159" tvg-name="嘉佳卡通" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png",嘉佳卡通
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000061/index.m3u8?channel-id=newtv&Contentid=9900000061&livemode=1
+#EXTINF:-1 tvg-id="112" tvg-name="延边卫视" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86.png",延边卫视
+http://39.134.33.101:6610/270000001128/9900000073/index.m3u8?channel-id=newtv&Contentid=9900000073&livemode=1
+#EXTINF:-1 tvg-id="112" tvg-name="延边卫视" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86.png",延边卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000073/index.m3u8?channel-id=newtv&Contentid=9900000073&livemode=1
+#EXTINF:-1 tvg-id="554" tvg-name="安多卫视" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%AE%89%E5%A4%9A%E5%8D%AB%E8%A7%86.png",安多卫视
+http://39.134.33.101:6610/270000001128/9900000064/index.m3u8?channel-id=newtv&Contentid=9900000064&livemode=1
+#EXTINF:-1 tvg-id="554" tvg-name="安多卫视" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%AE%89%E5%A4%9A%E5%8D%AB%E8%A7%86.png",安多卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000064/index.m3u8?channel-id=newtv&Contentid=9900000064&livemode=1
+#EXTINF:-1 tvg-id="261" tvg-name="农林卫视" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86.png",农林卫视
+http://39.134.33.101:6610/270000001128/9900000060/index.m3u8?channel-id=newtv&Contentid=9900000060&livemode=1
+#EXTINF:-1 tvg-id="261" tvg-name="农林卫视" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86.png",农林卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000060/index.m3u8?channel-id=newtv&Contentid=9900000060&livemode=1
+#EXTINF:-1 tvg-id="111" tvg-name="康巴卫视" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%BA%B7%E5%B7%B4%E5%8D%AB%E8%A7%86.png",康巴卫视
+http://39.134.33.101:6610/270000001128/9900000066/index.m3u8?channel-id=newtv&Contentid=9900000066&livemode=1
+#EXTINF:-1 tvg-id="111" tvg-name="康巴卫视" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%BA%B7%E5%B7%B4%E5%8D%AB%E8%A7%86.png",康巴卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000066/index.m3u8?channel-id=newtv&Contentid=9900000066&livemode=1
+#EXTINF:-1 tvg-id="110" tvg-name="兵团卫视" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png",兵团卫视
+http://39.134.33.101:6610/270000001128/9900000059/index.m3u8?channel-id=newtv&Contentid=9900000059&livemode=1
+#EXTINF:-1 tvg-id="110" tvg-name="兵团卫视" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png",兵团卫视
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000059/index.m3u8?channel-id=newtv&Contentid=9900000059&livemode=1
+#EXTINF:-1 tvg-id="363" tvg-name="爱情喜剧" group-title="其它",爱情喜剧
+http://39.134.33.101:6610/270000001128/9900000104/index.m3u8?channel-id=newtv&Contentid=9900000104&livemode=1
+#EXTINF:-1 tvg-id="363" tvg-name="爱情喜剧" group-title="其它",爱情喜剧
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000104/index.m3u8?channel-id=newtv&Contentid=9900000104&livemode=1
+#EXTINF:-1 tvg-name="藏语频道" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E8%A5%BF%E8%97%8F%E8%97%8F%E8%AF%AD%E5%8D%AB%E8%A7%86.png",藏语频道
+http://39.134.33.101:6610/270000001128/9900000093/index.m3u8?channel-id=newtv&Contentid=9900000093&livemode=1
+#EXTINF:-1 tvg-name="藏语频道" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E8%A5%BF%E8%97%8F%E8%97%8F%E8%AF%AD%E5%8D%AB%E8%A7%86.png",藏语频道
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000093/index.m3u8?channel-id=newtv&Contentid=9900000093&livemode=1
+#EXTINF:-1 tvg-id="429" tvg-name="超级电视剧高清" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E8%B6%85%E7%BA%A7%E7%94%B5%E8%A7%86%E5%89%A7.png",超级电视剧高清
+http://39.134.33.101:6610/270000001128/9900000022/index.m3u8?channel-id=newtv&Contentid=9900000022&livemode=1
+#EXTINF:-1 tvg-id="429" tvg-name="超级电视剧高清" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E8%B6%85%E7%BA%A7%E7%94%B5%E8%A7%86%E5%89%A7.png",超级电视剧高清
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000022/index.m3u8?channel-id=newtv&Contentid=9900000022&livemode=1
+#EXTINF:-1 tvg-id="428" tvg-name="超级电影高清" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E8%B6%85%E7%BA%A7%E7%94%B5%E5%BD%B1.png",超级电影高清
+http://39.134.33.101:6610/270000001128/9900000021/index.m3u8?channel-id=newtv&Contentid=9900000021&livemode=1
+#EXTINF:-1 tvg-id="428" tvg-name="超级电影高清" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E8%B6%85%E7%BA%A7%E7%94%B5%E5%BD%B1.png",超级电影高清
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000021/index.m3u8?channel-id=newtv&Contentid=9900000021&livemode=1
+#EXTINF:-1 tvg-id="526" tvg-name="超级体育高清" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E8%B6%85%E7%BA%A7%E4%BD%93%E8%82%B2.png",超级体育高清
+http://39.134.33.101:6610/270000001128/9900000020/index.m3u8?channel-id=newtv&Contentid=9900000020&livemode=1
+#EXTINF:-1 tvg-id="526" tvg-name="超级体育高清" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E8%B6%85%E7%BA%A7%E4%BD%93%E8%82%B2.png",超级体育高清
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000020/index.m3u8?channel-id=newtv&Contentid=9900000020&livemode=1
+#EXTINF:-1 tvg-id="427" tvg-name="超级综艺高清" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E8%B6%85%E7%BA%A7%E7%BB%BC%E8%89%BA.png",超级综艺高清
+http://39.134.33.101:6610/270000001128/9900000019/index.m3u8?channel-id=newtv&Contentid=9900000019&livemode=1
+#EXTINF:-1 tvg-id="427" tvg-name="超级综艺高清" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E8%B6%85%E7%BA%A7%E7%BB%BC%E8%89%BA.png",超级综艺高清
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000019/index.m3u8?channel-id=newtv&Contentid=9900000019&livemode=1
+#EXTINF:-1 tvg-id="355" tvg-name="潮妈辣婆" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E6%BD%AE%E5%A6%88%E8%BE%A3%E5%A9%86.png",潮妈辣婆
+http://39.134.33.101:6610/270000001128/9900000099/index.m3u8?channel-id=newtv&Contentid=9900000099&livemode=1
+#EXTINF:-1 tvg-id="355" tvg-name="潮妈辣婆" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E6%BD%AE%E5%A6%88%E8%BE%A3%E5%A9%86.png",潮妈辣婆
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000099/index.m3u8?channel-id=newtv&Contentid=9900000099&livemode=1
+#EXTINF:-1 tvg-id="357" tvg-name="哒啵电竞" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%93%92%E5%95%B5%E7%94%B5%E7%AB%9E.png",哒啵电竞
+http://39.134.33.101:6610/270000001128/9900000121/index.m3u8?channel-id=newtv&Contentid=9900000121&livemode=1
+#EXTINF:-1 tvg-id="357" tvg-name="哒啵电竞" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%93%92%E5%95%B5%E7%94%B5%E7%AB%9E.png",哒啵电竞
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000121/index.m3u8?channel-id=newtv&Contentid=9900000121&livemode=1
+#EXTINF:-1 tvg-id="356" tvg-name="哒啵赛事" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%93%92%E5%95%B5%E8%B5%9B%E4%BA%8B.png",哒啵赛事
+http://39.134.33.101:6610/270000001128/9900000097/index.m3u8?channel-id=newtv&Contentid=9900000097&livemode=1
+#EXTINF:-1 tvg-id="356" tvg-name="哒啵赛事" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%93%92%E5%95%B5%E8%B5%9B%E4%BA%8B.png",哒啵赛事
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000097/index.m3u8?channel-id=newtv&Contentid=9900000097&livemode=1
+#EXTINF:-1 tvg-id="367" tvg-name="谍战大剧" group-title="其它",谍战大剧
+http://39.134.33.101:6610/270000001128/9900000112/index.m3u8?channel-id=newtv&Contentid=9900000112&livemode=1
+#EXTINF:-1 tvg-id="367" tvg-name="谍战大剧" group-title="其它",谍战大剧
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000112/index.m3u8?channel-id=newtv&Contentid=9900000112&livemode=1
+#EXTINF:-1 tvg-id="431" tvg-name="东北热剧" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E4%B8%9C%E5%8C%97%E7%83%AD%E5%89%A7.png",东北热剧
+http://39.134.33.101:6610/270000001128/9900000092/index.m3u8?channel-id=newtv&Contentid=9900000092&livemode=1
+#EXTINF:-1 tvg-id="431" tvg-name="东北热剧" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E4%B8%9C%E5%8C%97%E7%83%AD%E5%89%A7.png",东北热剧
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000092/index.m3u8?channel-id=newtv&Contentid=9900000092&livemode=1
+#EXTINF:-1 tvg-id="350" tvg-name="动作电影" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png",动作电影
+http://39.134.33.101:6610/270000001128/9900000106/index.m3u8?channel-id=newtv&Contentid=9900000106&livemode=1
+#EXTINF:-1 tvg-id="350" tvg-name="动作电影" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png",动作电影
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000106/index.m3u8?channel-id=newtv&Contentid=9900000106&livemode=1
+#EXTINF:-1 tvg-id="368" tvg-name="烽烟剧场" group-title="其它",烽烟剧场
+http://39.134.33.101:6610/270000001128/9900000109/index.m3u8?channel-id=newtv&Contentid=9900000109&livemode=1
+#EXTINF:-1 tvg-id="368" tvg-name="烽烟剧场" group-title="其它",烽烟剧场
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000109/index.m3u8?channel-id=newtv&Contentid=9900000109&livemode=1
+#EXTINF:-1 tvg-name="甘肃公共高清" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E7%94%98%E8%82%83%E5%85%AC%E5%85%B1%E5%BA%94%E6%80%A5.png",甘肃公共高清
+http://39.134.33.101:6610/270000001111/1110000321/index.m3u8?channel-id=bestzb&Contentid=1110000321&livemode=1
+#EXTINF:-1 tvg-name="甘肃公共高清" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E7%94%98%E8%82%83%E5%85%AC%E5%85%B1%E5%BA%94%E6%80%A5.png",甘肃公共高清
+http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000321/index.m3u8?channel-id=bestzb&Contentid=1110000321&livemode=1
+#EXTINF:-1 tvg-id="540" tvg-name="甘肃科教高清" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E7%94%98%E8%82%83%E7%A7%91%E6%95%99.png",甘肃科教高清
+http://39.134.33.101:6610/270000001111/1110000322/index.m3u8?channel-id=bestzb&Contentid=1110000322&livemode=1
+#EXTINF:-1 tvg-id="540" tvg-name="甘肃科教高清" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E7%94%98%E8%82%83%E7%A7%91%E6%95%99.png",甘肃科教高清
+http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000322/index.m3u8?channel-id=bestzb&Contentid=1110000322&livemode=1
+#EXTINF:-1 tvg-id="538" tvg-name="甘肃少儿高清" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E7%94%98%E8%82%83%E5%B0%91%E5%84%BF.png",甘肃少儿高清
+http://39.134.33.101:6610/270000001111/1110000323/index.m3u8?channel-id=bestzb&Contentid=1110000323&livemode=1
+#EXTINF:-1 tvg-id="538" tvg-name="甘肃少儿高清" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E7%94%98%E8%82%83%E5%B0%91%E5%84%BF.png",甘肃少儿高清
+http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000323/index.m3u8?channel-id=bestzb&Contentid=1110000323&livemode=1
+#EXTINF:-1 tvg-id="541" tvg-name="甘肃文化影视高清" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E7%94%98%E8%82%83%E6%96%87%E5%8C%96%E5%BD%B1%E8%A7%86.png",甘肃文化影视高清
+http://39.134.33.101:6610/270000001111/1110000320/index.m3u8?channel-id=bestzb&Contentid=1110000320&livemode=1
+#EXTINF:-1 tvg-id="541" tvg-name="甘肃文化影视高清" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E7%94%98%E8%82%83%E6%96%87%E5%8C%96%E5%BD%B1%E8%A7%86.png",甘肃文化影视高清
+http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000320/index.m3u8?channel-id=bestzb&Contentid=1110000320&livemode=1
+#EXTINF:-1 tvg-name="高尔夫" group-title="其它",高尔夫
+http://39.134.33.101:6610/270000001128/9900000094/index.m3u8?channel-id=newtv&Contentid=9900000094&livemode=1
+#EXTINF:-1 tvg-name="高尔夫" group-title="其它",高尔夫
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000094/index.m3u8?channel-id=newtv&Contentid=9900000094&livemode=1
+#EXTINF:-1 tvg-id="360" tvg-name="古装剧场" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E5%8F%A4%E8%A3%85%E5%89%A7%E5%9C%BA.png",古装剧场
+http://39.134.33.101:6610/270000001128/9900000105/index.m3u8?channel-id=newtv&Contentid=9900000105&livemode=1
+#EXTINF:-1 tvg-id="360" tvg-name="古装剧场" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E5%8F%A4%E8%A3%85%E5%89%A7%E5%9C%BA.png",古装剧场
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000105/index.m3u8?channel-id=newtv&Contentid=9900000105&livemode=1
+#EXTINF:-1 tvg-id="344" tvg-name="黑莓电影" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%BB%91%E8%8E%93%E7%94%B5%E5%BD%B1.png",黑莓电影
+http://39.134.33.101:6610/270000001128/9900000095/index.m3u8?channel-id=newtv&Contentid=9900000095&livemode=1
+#EXTINF:-1 tvg-id="344" tvg-name="黑莓电影" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%BB%91%E8%8E%93%E7%94%B5%E5%BD%B1.png",黑莓电影
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000095/index.m3u8?channel-id=newtv&Contentid=9900000095&livemode=1
+#EXTINF:-1 tvg-id="345" tvg-name="黑莓动画" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%BB%91%E8%8E%93%E5%8A%A8%E7%94%BB.png",黑莓动画
+http://39.134.33.101:6610/270000001128/9900000096/index.m3u8?channel-id=newtv&Contentid=9900000096&livemode=1
+#EXTINF:-1 tvg-id="345" tvg-name="黑莓动画" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%BB%91%E8%8E%93%E5%8A%A8%E7%94%BB.png",黑莓动画
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000096/index.m3u8?channel-id=newtv&Contentid=9900000096&livemode=1
+#EXTINF:-1 tvg-id="432" tvg-name="欢乐剧场" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E6%AC%A2%E4%B9%90%E5%89%A7%E5%9C%BA.png",欢乐剧场
+http://39.134.33.101:6610/270000001128/9900000091/index.m3u8?channel-id=newtv&Contentid=9900000091&livemode=1
+#EXTINF:-1 tvg-id="432" tvg-name="欢乐剧场" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E6%AC%A2%E4%B9%90%E5%89%A7%E5%9C%BA.png",欢乐剧场
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000091/index.m3u8?channel-id=newtv&Contentid=9900000091&livemode=1
+#EXTINF:-1 tvg-name="家电食品" group-title="其它",家电食品
+http://39.134.33.101:6610/270000001128/9900000082/index.m3u8?channel-id=newtv&Contentid=9900000082&livemode=1
+#EXTINF:-1 tvg-name="家电食品" group-title="其它",家电食品
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000082/index.m3u8?channel-id=newtv&Contentid=9900000082&livemode=1
+#EXTINF:-1 tvg-id="362" tvg-name="家庭剧场" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E5%AE%B6%E5%BA%AD%E5%89%A7%E5%9C%BA.png",家庭剧场
+http://39.134.33.101:6610/270000001128/9900000108/index.m3u8?channel-id=newtv&Contentid=9900000108&livemode=1
+#EXTINF:-1 tvg-id="362" tvg-name="家庭剧场" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E5%AE%B6%E5%BA%AD%E5%89%A7%E5%9C%BA.png",家庭剧场
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000108/index.m3u8?channel-id=newtv&Contentid=9900000108&livemode=1
+#EXTINF:-1 tvg-name="健康养生" group-title="其它",健康养生
+http://39.134.33.101:6610/270000001128/9900000079/index.m3u8?channel-id=newtv&Contentid=9900000079&livemode=1
+#EXTINF:-1 tvg-name="健康养生" group-title="其它",健康养生
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000079/index.m3u8?channel-id=newtv&Contentid=9900000079&livemode=1
+#EXTINF:-1 tvg-id="169" tvg-name="金鹰纪实" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9E.png",金鹰纪实
+http://39.134.33.101:6610/270000001128/9900000074/index.m3u8?channel-id=newtv&Contentid=9900000074&livemode=1
+#EXTINF:-1 tvg-id="169" tvg-name="金鹰纪实" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9E.png",金鹰纪实
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000074/index.m3u8?channel-id=newtv&Contentid=9900000074&livemode=1
+#EXTINF:-1 tvg-id="168" tvg-name="金鹰卡通" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png",金鹰卡通
+http://39.134.33.101:6610/270000001128/9900000039/index.m3u8?channel-id=newtv&Contentid=9900000039&livemode=1
+#EXTINF:-1 tvg-id="168" tvg-name="金鹰卡通" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png",金鹰卡通
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000039/index.m3u8?channel-id=newtv&Contentid=9900000039&livemode=1
+#EXTINF:-1 tvg-id="366" tvg-name="惊悚悬疑" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E6%83%8A%E6%82%9A%E6%82%AC%E7%96%91.png",惊悚悬疑
+http://39.134.33.101:6610/270000001128/9900000113/index.m3u8?channel-id=newtv&Contentid=9900000113&livemode=1
+#EXTINF:-1 tvg-id="366" tvg-name="惊悚悬疑" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E6%83%8A%E6%82%9A%E6%82%AC%E7%96%91.png",惊悚悬疑
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000113/index.m3u8?channel-id=newtv&Contentid=9900000113&livemode=1
+#EXTINF:-1 tvg-id="392" tvg-name="睛彩广场舞" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E7%9D%9B%E5%BD%A9%E5%B9%BF%E5%9C%BA%E8%88%9E.png",睛彩广场舞
+http://39.134.33.101:6610/270000001128/9900000532/index.m3u8?channel-id=newtv&Contentid=9900000532&livemode=1
+#EXTINF:-1 tvg-id="392" tvg-name="睛彩广场舞" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E7%9D%9B%E5%BD%A9%E5%B9%BF%E5%9C%BA%E8%88%9E.png",睛彩广场舞
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000532/index.m3u8?channel-id=newtv&Contentid=9900000532&livemode=1
+#EXTINF:-1 tvg-id="390" tvg-name="睛彩竞技" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E7%9D%9B%E5%BD%A9%E7%AB%9E%E6%8A%80.png",睛彩竞技
+http://39.134.33.101:6610/270000001128/9900000119/index.m3u8?channel-id=newtv&Contentid=9900000119&livemode=1
+#EXTINF:-1 tvg-id="390" tvg-name="睛彩竞技" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E7%9D%9B%E5%BD%A9%E7%AB%9E%E6%8A%80.png",睛彩竞技
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000119/index.m3u8?channel-id=newtv&Contentid=9900000119&livemode=1
+#EXTINF:-1 tvg-id="391" tvg-name="睛彩篮球" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E7%9D%9B%E5%BD%A9%E7%AF%AE%E7%90%83.png",睛彩篮球
+http://39.134.33.101:6610/270000001128/9900000118/index.m3u8?channel-id=newtv&Contentid=9900000118&livemode=1
+#EXTINF:-1 tvg-id="391" tvg-name="睛彩篮球" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E7%9D%9B%E5%BD%A9%E7%AF%AE%E7%90%83.png",睛彩篮球
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000118/index.m3u8?channel-id=newtv&Contentid=9900000118&livemode=1
+#EXTINF:-1 tvg-id="389" tvg-name="睛彩青少" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E7%9D%9B%E5%BD%A9%E9%9D%92%E5%B0%91.png",睛彩青少
+http://39.134.33.101:6610/270000001128/9900000120/index.m3u8?channel-id=newtv&Contentid=9900000120&livemode=1
+#EXTINF:-1 tvg-id="389" tvg-name="睛彩青少" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E7%9D%9B%E5%BD%A9%E9%9D%92%E5%B0%91.png",睛彩青少
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000120/index.m3u8?channel-id=newtv&Contentid=9900000120&livemode=1
+#EXTINF:-1 tvg-id="369" tvg-name="精品大剧" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E7%B2%BE%E5%93%81%E5%A4%A7%E5%89%A7.png",精品大剧
+http://39.134.33.101:6610/270000001128/9900000100/index.m3u8?channel-id=newtv&Contentid=9900000100&livemode=1
+#EXTINF:-1 tvg-id="369" tvg-name="精品大剧" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E7%B2%BE%E5%93%81%E5%A4%A7%E5%89%A7.png",精品大剧
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000100/index.m3u8?channel-id=newtv&Contentid=9900000100&livemode=1
+#EXTINF:-1 tvg-name="精品家居" group-title="其它",精品家居
+http://39.134.33.101:6610/270000001128/9900000080/index.m3u8?channel-id=newtv&Contentid=9900000080&livemode=1
+#EXTINF:-1 tvg-name="精品家居" group-title="其它",精品家居
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000080/index.m3u8?channel-id=newtv&Contentid=9900000080&livemode=1
+#EXTINF:-1 tvg-id="371" tvg-name="精品萌宠" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E7%B2%BE%E5%93%81%E8%90%8C%E5%AE%A0.png",精品萌宠
+http://39.134.33.101:6610/270000001128/9900000122/index.m3u8?channel-id=newtv&Contentid=9900000122&livemode=1
+#EXTINF:-1 tvg-id="371" tvg-name="精品萌宠" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E7%B2%BE%E5%93%81%E8%90%8C%E5%AE%A0.png",精品萌宠
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000122/index.m3u8?channel-id=newtv&Contentid=9900000122&livemode=1
+#EXTINF:-1 tvg-id="370" tvg-name="精品体育" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E7%B2%BE%E5%93%81%E4%BD%93%E8%82%B2.png",精品体育
+http://39.134.33.101:6610/270000001128/9900000102/index.m3u8?channel-id=newtv&Contentid=9900000102&livemode=1
+#EXTINF:-1 tvg-id="370" tvg-name="精品体育" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E7%B2%BE%E5%93%81%E4%BD%93%E8%82%B2.png",精品体育
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000102/index.m3u8?channel-id=newtv&Contentid=9900000102&livemode=1
+#EXTINF:-1 tvg-name="精品综合" group-title="其它",精品综合
+http://39.134.33.101:6610/270000001128/9900000116/index.m3u8?channel-id=newtv&Contentid=9900000116&livemode=1
+#EXTINF:-1 tvg-name="精品综合" group-title="其它",精品综合
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000116/index.m3u8?channel-id=newtv&Contentid=9900000116&livemode=1
+#EXTINF:-1 tvg-id="361" tvg-name="军旅剧场" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E5%86%9B%E6%97%85%E5%89%A7%E5%9C%BA.png",军旅剧场
+http://39.134.33.101:6610/270000001128/9900000107/index.m3u8?channel-id=newtv&Contentid=9900000107&livemode=1
+#EXTINF:-1 tvg-id="361" tvg-name="军旅剧场" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E5%86%9B%E6%97%85%E5%89%A7%E5%9C%BA.png",军旅剧场
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000107/index.m3u8?channel-id=newtv&Contentid=9900000107&livemode=1
+#EXTINF:-1 tvg-id="358" tvg-name="军事评论" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E5%86%9B%E4%BA%8B%E8%AF%84%E8%AE%BA.png",军事评论
+http://39.134.33.101:6610/270000001128/9900000110/index.m3u8?channel-id=newtv&Contentid=9900000110&livemode=1
+#EXTINF:-1 tvg-id="358" tvg-name="军事评论" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E5%86%9B%E4%BA%8B%E8%AF%84%E8%AE%BA.png",军事评论
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000110/index.m3u8?channel-id=newtv&Contentid=9900000110&livemode=1
+#EXTINF:-1 tvg-name="卡酷卡通" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png",卡酷卡通
+http://39.134.33.101:6610/270000001128/9900000040/index.m3u8?channel-id=newtv&Contentid=9900000040&livemode=1
+#EXTINF:-1 tvg-name="卡酷卡通" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png",卡酷卡通
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000040/index.m3u8?channel-id=newtv&Contentid=9900000040&livemode=1
+#EXTINF:-1 tvg-name="康养保健" group-title="其它",康养保健
+http://39.134.33.101:6610/270000001128/9900000081/index.m3u8?channel-id=newtv&Contentid=9900000081&livemode=1
+#EXTINF:-1 tvg-name="康养保健" group-title="其它",康养保健
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000081/index.m3u8?channel-id=newtv&Contentid=9900000081&livemode=1
+#EXTINF:-1 tvg-name="凉州综合" group-title="其它",凉州综合
+http://39.134.33.101:6610/270000001111/1110000401/index.m3u8?channel-id=bestzb&Contentid=1110000401&livemode=1
+#EXTINF:-1 tvg-name="凉州综合" group-title="其它",凉州综合
+http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000401/index.m3u8?channel-id=bestzb&Contentid=1110000401&livemode=1
+#EXTINF:-1 tvg-name="民勤综合" group-title="其它",民勤综合
+http://39.134.33.101:6610/270000001111/1110000396/index.m3u8?channel-id=bestzb&Contentid=1110000396&livemode=1
+#EXTINF:-1 tvg-name="民勤综合" group-title="其它",民勤综合
+http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000396/index.m3u8?channel-id=bestzb&Contentid=1110000396&livemode=1
+#EXTINF:-1 tvg-id="430" tvg-name="农业致富" group-title="其它",农业致富
+http://39.134.33.101:6610/270000001128/9900000111/index.m3u8?channel-id=newtv&Contentid=9900000111&livemode=1
+#EXTINF:-1 tvg-id="430" tvg-name="农业致富" group-title="其它",农业致富
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000111/index.m3u8?channel-id=newtv&Contentid=9900000111&livemode=1
+#EXTINF:-1 tvg-id="364" tvg-name="热播精选" group-title="其它",热播精选
+http://39.134.33.101:6610/270000001128/9900000115/index.m3u8?channel-id=newtv&Contentid=9900000115&livemode=1
+#EXTINF:-1 tvg-id="364" tvg-name="热播精选" group-title="其它",热播精选
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000115/index.m3u8?channel-id=newtv&Contentid=9900000115&livemode=1
+#EXTINF:-1 tvg-name="天祝综合" group-title="其它",天祝综合
+http://39.134.33.101:6610/270000001111/1110000399/index.m3u8?channel-id=bestzb&Contentid=1110000399&livemode=1
+#EXTINF:-1 tvg-name="天祝综合" group-title="其它",天祝综合
+http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000399/index.m3u8?channel-id=bestzb&Contentid=1110000399&livemode=1
+#EXTINF:-1 tvg-name="万人推荐" group-title="其它",万人推荐
+http://39.134.33.101:6610/270000001128/9900000083/index.m3u8?channel-id=newtv&Contentid=9900000083&livemode=1
+#EXTINF:-1 tvg-name="万人推荐" group-title="其它",万人推荐
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000083/index.m3u8?channel-id=newtv&Contentid=9900000083&livemode=1
+#EXTINF:-1 tvg-name="文化收藏" group-title="其它",文化收藏
+http://39.134.33.101:6610/270000001128/9900000078/index.m3u8?channel-id=newtv&Contentid=9900000078&livemode=1
+#EXTINF:-1 tvg-name="文化收藏" group-title="其它",文化收藏
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000078/index.m3u8?channel-id=newtv&Contentid=9900000078&livemode=1
+#EXTINF:-1 tvg-name="武威综合" group-title="其它",武威综合
+http://39.134.33.101:6610/270000001111/1110000400/index.m3u8?channel-id=bestzb&Contentid=1110000400&livemode=1
+#EXTINF:-1 tvg-name="武威综合" group-title="其它",武威综合
+http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000400/index.m3u8?channel-id=bestzb&Contentid=1110000400&livemode=1
+#EXTINF:-1 tvg-id="359" tvg-name="炫舞未来" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E7%82%AB%E8%88%9E%E6%9C%AA%E6%9D%A5.png",炫舞未来
+http://39.134.33.101:6610/270000001128/9900000098/index.m3u8?channel-id=newtv&Contentid=9900000098&livemode=1
+#EXTINF:-1 tvg-id="359" tvg-name="炫舞未来" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E7%82%AB%E8%88%9E%E6%9C%AA%E6%9D%A5.png",炫舞未来
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000098/index.m3u8?channel-id=newtv&Contentid=9900000098&livemode=1
+#EXTINF:-1 tvg-id="374" tvg-name="怡伴健康" group-title="其它",怡伴健康
+http://39.134.33.101:6610/270000001128/9900000103/index.m3u8?channel-id=newtv&Contentid=9900000103&livemode=1
+#EXTINF:-1 tvg-id="374" tvg-name="怡伴健康" group-title="其它",怡伴健康
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000103/index.m3u8?channel-id=newtv&Contentid=9900000103&livemode=1
+#EXTINF:-1 tvg-name="银发生活" group-title="其它",银发生活
+http://39.134.33.101:6610/270000001128/9900000076/index.m3u8?channel-id=newtv&Contentid=9900000076&livemode=1
+#EXTINF:-1 tvg-name="银发生活" group-title="其它",银发生活
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000076/index.m3u8?channel-id=newtv&Contentid=9900000076&livemode=1
+#EXTINF:-1 tvg-name="营养饮食" group-title="其它",营养饮食
+http://39.134.33.101:6610/270000001128/9900000077/index.m3u8?channel-id=newtv&Contentid=9900000077&livemode=1
+#EXTINF:-1 tvg-name="营养饮食" group-title="其它",营养饮食
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000077/index.m3u8?channel-id=newtv&Contentid=9900000077&livemode=1
+#EXTINF:-1 tvg-id="208" tvg-name="优漫卡通" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A.png",优漫卡通
+http://39.134.33.101:6610/270000001128/9900000070/index.m3u8?channel-id=newtv&Contentid=9900000070&livemode=1
+#EXTINF:-1 tvg-id="208" tvg-name="优漫卡通" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A.png",优漫卡通
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000070/index.m3u8?channel-id=newtv&Contentid=9900000070&livemode=1
+#EXTINF:-1 tvg-name="运动文旅" group-title="其它",运动文旅
+http://39.134.33.101:6610/270000001128/9900000084/index.m3u8?channel-id=newtv&Contentid=9900000084&livemode=1
+#EXTINF:-1 tvg-name="运动文旅" group-title="其它",运动文旅
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000084/index.m3u8?channel-id=newtv&Contentid=9900000084&livemode=1
+#EXTINF:-1 tvg-id="373" tvg-name="中国功夫" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB.png",中国功夫
+http://39.134.33.101:6610/270000001128/9900000101/index.m3u8?channel-id=newtv&Contentid=9900000101&livemode=1
+#EXTINF:-1 tvg-id="373" tvg-name="中国功夫" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/NEWTV%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB.png",中国功夫
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000101/index.m3u8?channel-id=newtv&Contentid=9900000101&livemode=1
+#EXTINF:-1 tvg-name="中国教育" group-title="其它",中国教育
+http://39.134.33.101:6610/270000001128/9900000046/index.m3u8?channel-id=newtv&Contentid=9900000046&livemode=1
+#EXTINF:-1 tvg-name="中国教育" group-title="其它",中国教育
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000046/index.m3u8?channel-id=newtv&Contentid=9900000046&livemode=1
