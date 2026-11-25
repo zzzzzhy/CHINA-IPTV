@@ -1,0 +1,444 @@
+#EXTM3U
+# 由 zzzzzhy/CHINA-IPTV 自动生成：同步上游 + 补全频道图标
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV1.png",CCTV1
+rtp://226.0.2.18:8056
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV1.png",CCTV1
+rtp://226.0.2.153:9136
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV2.png",CCTV2
+rtp://226.0.2.19:8064
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV2.png",CCTV2
+rtp://226.0.2.154:9144
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV3.png",CCTV3
+rtp://226.0.2.20:8072
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV3.png",CCTV3
+rtp://226.0.2.208:9576
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV4.png",CCTV4
+rtp://226.0.2.156:9160
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV4.png",CCTV4
+rtp://226.0.2.21:8080
+#EXTINF:-1 tvg-id="19" tvg-name="CCTV4欧洲" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV4%E6%AC%A7%E6%B4%B2.png",CCTV4欧洲
+rtp://226.0.2.108:9116
+#EXTINF:-1 tvg-id="20" tvg-name="CCTV4美洲" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV4%E7%BE%8E%E6%B4%B2.png",CCTV4美洲
+rtp://226.0.2.109:9124
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV5.png",CCTV5
+rtp://226.0.2.22:8088
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV5.png",CCTV5
+rtp://226.0.2.209:9584
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV5%2B.png",CCTV5+
+rtp://226.0.2.168:9256
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV6.png",CCTV6
+rtp://226.0.2.23:8096
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV6.png",CCTV6
+rtp://226.0.2.210:9592
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV7.png",CCTV7
+rtp://226.0.2.24:8104
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV7.png",CCTV7
+rtp://226.0.2.159:9184
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV8.png",CCTV8
+rtp://226.0.2.25:8112
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV8.png",CCTV8
+rtp://226.0.2.211:9600
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV9.png",CCTV9
+rtp://226.0.2.161:9200
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV9.png",CCTV9
+rtp://226.0.2.26:8120
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV10.png",CCTV10
+rtp://226.0.2.162:9208
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV10.png",CCTV10
+rtp://226.0.2.27:8128
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV11.png",CCTV11
+rtp://226.0.2.28:8136
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV12.png",CCTV12
+rtp://226.0.2.29:8144
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV12.png",CCTV12
+rtp://226.0.2.164:9224
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV13.png",CCTV13
+rtp://226.0.2.30:8152
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV13.png",CCTV13
+rtp://226.0.2.165:9232
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV14.png",CCTV14
+rtp://226.0.2.31:8160
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV14.png",CCTV14
+rtp://226.0.2.166:9240
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV15.png",CCTV15
+rtp://226.0.2.32:8168
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV16.png",CCTV16
+rtp://226.0.2.169:9264
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV17.png",CCTV17
+rtp://226.0.2.170:9272
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV17.png",CCTV17
+rtp://226.0.2.207:9568
+#EXTINF:-1 tvg-id="25" tvg-name="CGTN" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CGTN.png",CGTN
+rtp://226.0.2.113:9132
+#EXTINF:-1 tvg-id="25" tvg-name="CGTN" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CGTN.png",CGTN
+rtp://226.0.1.236:2110
+#EXTINF:-1 tvg-id="21" tvg-name="CGTN西语" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CGTN%E8%A5%BF%E8%AF%AD.png",CGTN西语
+rtp://226.0.2.135:9148
+#EXTINF:-1 tvg-id="22" tvg-name="CGTN法语" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CGTN%E6%B3%95%E8%AF%AD.png",CGTN法语
+rtp://226.0.2.136:9152
+#EXTINF:-1 tvg-id="23" tvg-name="CGTN俄语" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CGTN%E4%BF%84%E8%AF%AD.png",CGTN俄语
+rtp://226.0.2.140:9164
+#EXTINF:-1 tvg-id="24" tvg-name="CGTN阿语" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CGTN%E9%98%BF%E8%AF%AD.png",CGTN阿语
+rtp://226.0.2.137:9156
+#EXTINF:-1 tvg-id="29" tvg-name="CGTN纪录" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CGTN%E7%BA%AA%E5%BD%95.png",CGTN纪录
+rtp://226.0.2.133:9140
+#EXTINF:-1 tvg-id="87" tvg-name="安徽卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png",安徽卫视
+rtp://226.0.2.37:8208
+#EXTINF:-1 tvg-id="87" tvg-name="安徽卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png",安徽卫视
+rtp://226.0.2.145:9072
+#EXTINF:-1 tvg-id="90" tvg-name="北京卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png",北京卫视
+rtp://226.0.2.39:8224
+#EXTINF:-1 tvg-id="90" tvg-name="北京卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png",北京卫视
+rtp://226.0.2.177:9328
+#EXTINF:-1 tvg-id="90" tvg-name="北京卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png",北京卫视
+rtp://226.0.2.155:9172
+#EXTINF:-1 tvg-id="77" tvg-name="重庆卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png",重庆卫视
+rtp://226.0.2.50:8312
+#EXTINF:-1 tvg-id="77" tvg-name="重庆卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png",重庆卫视
+rtp://226.0.2.174:9304
+#EXTINF:-1 tvg-id="80" tvg-name="东方卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png",东方卫视
+rtp://226.0.2.34:8184
+#EXTINF:-1 tvg-id="80" tvg-name="东方卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png",东方卫视
+rtp://226.0.2.175:9312
+#EXTINF:-1 tvg-id="80" tvg-name="东方卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png",东方卫视
+rtp://226.0.2.124:8284
+#EXTINF:-1 tvg-id="99" tvg-name="甘肃卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png",甘肃卫视
+rtp://226.0.2.55:8352
+#EXTINF:-1 tvg-id="82" tvg-name="广东卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png",广东卫视
+rtp://226.0.2.45:8272
+#EXTINF:-1 tvg-id="82" tvg-name="广东卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png",广东卫视
+rtp://226.0.2.146:9080
+#EXTINF:-1 tvg-id="82" tvg-name="广东卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png",广东卫视
+rtp://226.0.2.160:9176
+#EXTINF:-1 tvg-id="103" tvg-name="广西卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png",广西卫视
+rtp://226.0.2.46:8280
+#EXTINF:-1 tvg-id="103" tvg-name="广西卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png",广西卫视
+rtp://226.0.2.231:9760
+#EXTINF:-1 tvg-id="79" tvg-name="贵州卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png",贵州卫视
+rtp://226.0.2.43:8256
+#EXTINF:-1 tvg-id="79" tvg-name="贵州卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png",贵州卫视
+rtp://226.0.2.180:9352
+#EXTINF:-1 tvg-id="97" tvg-name="海南卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png",海南卫视
+rtp://226.0.2.61:8400
+#EXTINF:-1 tvg-id="97" tvg-name="海南卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png",海南卫视
+rtp://226.0.2.212:9608
+#EXTINF:-1 tvg-id="93" tvg-name="河北卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png",河北卫视
+rtp://226.0.2.65:8432
+#EXTINF:-1 tvg-id="93" tvg-name="河北卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png",河北卫视
+rtp://226.0.2.178:9336
+#EXTINF:-1 tvg-id="100" tvg-name="河南卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png",河南卫视
+rtp://226.0.2.52:8328
+#EXTINF:-1 tvg-id="100" tvg-name="河南卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png",河南卫视
+rtp://226.0.2.195:9472
+#EXTINF:-1 tvg-id="92" tvg-name="黑龙江卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",黑龙江卫视
+rtp://226.0.2.48:8296
+#EXTINF:-1 tvg-id="92" tvg-name="黑龙江卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",黑龙江卫视
+rtp://226.0.2.151:9120
+#EXTINF:-1 tvg-id="85" tvg-name="湖北卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png",湖北卫视
+rtp://226.0.2.49:8304
+#EXTINF:-1 tvg-id="85" tvg-name="湖北卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png",湖北卫视
+rtp://226.0.2.150:9112
+#EXTINF:-1 tvg-id="81" tvg-name="湖南卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png",湖南卫视
+rtp://226.0.2.33:8176
+#EXTINF:-1 tvg-id="81" tvg-name="湖南卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png",湖南卫视
+rtp://226.0.2.143:9056
+#EXTINF:-1 tvg-id="81" tvg-name="湖南卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png",湖南卫视
+rtp://226.0.2.101:8268
+#EXTINF:-1 tvg-id="98" tvg-name="吉林卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png",吉林卫视
+rtp://226.0.2.58:8376
+#EXTINF:-1 tvg-id="98" tvg-name="吉林卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png",吉林卫视
+rtp://226.0.2.199:9504
+#EXTINF:-1 tvg-id="91" tvg-name="江苏卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png",江苏卫视
+rtp://226.0.2.38:8216
+#EXTINF:-1 tvg-id="91" tvg-name="江苏卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png",江苏卫视
+rtp://226.0.2.176:9320
+#EXTINF:-1 tvg-id="91" tvg-name="江苏卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png",江苏卫视
+rtp://226.0.2.134:8292
+#EXTINF:-1 tvg-id="95" tvg-name="江西卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png",江西卫视
+rtp://226.0.2.54:8344
+#EXTINF:-1 tvg-id="95" tvg-name="江西卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png",江西卫视
+rtp://226.0.2.198:9496
+#EXTINF:-1 tvg-id="86" tvg-name="辽宁卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png",辽宁卫视
+rtp://226.0.2.35:8192
+#EXTINF:-1 tvg-id="86" tvg-name="辽宁卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png",辽宁卫视
+rtp://226.0.2.173:9296
+#EXTINF:-1 tvg-id="101" tvg-name="内蒙古卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png",内蒙古卫视
+rtp://226.0.2.63:8416
+#EXTINF:-1 tvg-id="108" tvg-name="宁夏卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png",宁夏卫视
+rtp://226.0.2.64:8424
+#EXTINF:-1 tvg-id="104" tvg-name="青海卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png",青海卫视
+rtp://226.0.2.59:8384
+#EXTINF:-1 tvg-id="89" tvg-name="山东卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png",山东卫视
+rtp://226.0.2.51:8320
+#EXTINF:-1 tvg-id="89" tvg-name="山东卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png",山东卫视
+rtp://226.0.2.149:9104
+#EXTINF:-1 tvg-id="89" tvg-name="山东卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png",山东卫视
+rtp://226.0.2.184:8316
+#EXTINF:-1 tvg-id="109" tvg-name="山西卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png",山西卫视
+rtp://226.0.2.11:8000
+#EXTINF:-1 tvg-id="109" tvg-name="山西卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png",山西卫视
+rtp://226.0.2.152:9128
+#EXTINF:-1 tvg-id="102" tvg-name="陕西卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png",陕西卫视
+rtp://226.0.2.53:8336
+#EXTINF:-1 tvg-id="83" tvg-name="深圳卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png",深圳卫视
+rtp://226.0.2.47:8288
+#EXTINF:-1 tvg-id="83" tvg-name="深圳卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png",深圳卫视
+rtp://226.0.2.147:9088
+#EXTINF:-1 tvg-id="83" tvg-name="深圳卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png",深圳卫视
+rtp://226.0.2.167:9180
+#EXTINF:-1 tvg-id="78" tvg-name="四川卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png",四川卫视
+rtp://226.0.2.42:8248
+#EXTINF:-1 tvg-id="78" tvg-name="四川卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png",四川卫视
+rtp://226.0.2.179:9344
+#EXTINF:-1 tvg-id="78" tvg-name="四川卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png",四川卫视
+rtp://226.0.2.163:8308
+#EXTINF:-1 tvg-id="84" tvg-name="天津卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png",天津卫视
+rtp://226.0.2.56:8360
+#EXTINF:-1 tvg-id="84" tvg-name="天津卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png",天津卫视
+rtp://226.0.2.148:9096
+#EXTINF:-1 tvg-id="106" tvg-name="西藏卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png",西藏卫视
+rtp://226.0.2.66:8440
+#EXTINF:-1 tvg-id="105" tvg-name="新疆卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png",新疆卫视
+rtp://226.0.2.67:8448
+#EXTINF:-1 tvg-id="94" tvg-name="云南卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png",云南卫视
+rtp://226.0.2.60:8392
+#EXTINF:-1 tvg-id="94" tvg-name="云南卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png",云南卫视
+rtp://226.0.2.89:9864
+#EXTINF:-1 tvg-id="88" tvg-name="浙江卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",浙江卫视
+rtp://226.0.2.36:8200
+#EXTINF:-1 tvg-id="88" tvg-name="浙江卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",浙江卫视
+rtp://226.0.2.144:9064
+#EXTINF:-1 tvg-id="88" tvg-name="浙江卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",浙江卫视
+rtp://226.0.2.114:8276
+#EXTINF:-1 tvg-name="北京KAKU少儿" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%8C%97%E4%BA%ACkaku%E5%B0%91%E5%84%BF.png",北京KAKU少儿
+rtp://226.0.2.57:8368
+#EXTINF:-1 tvg-id="174" tvg-name="东方财经" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E4%B8%9C%E6%96%B9%E8%B4%A2%E7%BB%8F.png",东方财经
+rtp://226.0.2.76:8520
+#EXTINF:-1 tvg-name="纪实人文" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E7%BA%AA%E5%AE%9E%E4%BA%BA%E6%96%87.png",纪实人文
+rtp://226.0.2.193:9456
+#EXTINF:-1 tvg-id="96" tvg-name="东南卫视" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png",东南卫视
+rtp://226.0.2.40:8232
+#EXTINF:-1 tvg-id="96" tvg-name="东南卫视" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png",东南卫视
+rtp://226.0.2.188:9416
+#EXTINF:-1 tvg-id="168" tvg-name="金鹰卡通" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png",金鹰卡通
+rtp://226.0.2.172:9288
+#EXTINF:-1 tvg-id="168" tvg-name="金鹰卡通" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png",金鹰卡通
+rtp://226.0.2.41:8240
+#EXTINF:-1 tvg-id="169" tvg-name="金鹰纪实" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9E.png",金鹰纪实
+rtp://226.0.2.194:9464
+#EXTINF:-1 tvg-id="414" tvg-name="山西经济与科技" group-title="地方",山西经济与科技
+rtp://226.0.2.236:9800
+#EXTINF:-1 tvg-id="416" tvg-name="山西影视" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86.png",山西影视
+rtp://226.0.2.14:8024
+#EXTINF:-1 tvg-id="416" tvg-name="山西影视" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86.png",山西影视
+rtp://226.0.2.237:9808
+#EXTINF:-1 tvg-id="415" tvg-name="山西社会与法治" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B1%B1%E8%A5%BF%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95%E6%B2%BB.png",山西社会与法治
+rtp://226.0.2.238:9816
+#EXTINF:-1 tvg-id="413" tvg-name="山西文体生活" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B1%B1%E8%A5%BF%E6%96%87%E4%BD%93%E7%94%9F%E6%B4%BB.png",山西文体生活
+rtp://226.0.2.16:8040
+#EXTINF:-1 tvg-id="413" tvg-name="山西文体生活" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B1%B1%E8%A5%BF%E6%96%87%E4%BD%93%E7%94%9F%E6%B4%BB.png",山西文体生活
+rtp://226.0.2.190:9432
+#EXTINF:-1 tvg-id="110" tvg-name="兵团卫视" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png",兵团卫视
+rtp://226.0.2.62:8408
+#EXTINF:-1 tvg-name="CETV" group-title="教育" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CETV1.png",CETV
+rtp://226.0.2.99:8704
+#EXTINF:-1 tvg-id="151" tvg-name="CETV1" group-title="教育" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CETV1.png",CETV1
+rtp://226.0.2.181:9360
+#EXTINF:-1 tvg-id="151" tvg-name="CETV1" group-title="教育" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CETV1.png",CETV1
+rtp://226.0.2.68:8456
+#EXTINF:-1 tvg-id="152" tvg-name="CETV2" group-title="教育" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CETV2.png",CETV2
+rtp://226.0.2.69:8464
+#EXTINF:-1 tvg-id="154" tvg-name="CETV4" group-title="教育" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CETV4.png",CETV4
+rtp://226.0.2.98:9876
+#EXTINF:-1 tvg-id="221" tvg-name="山东教育卫视" group-title="教育" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2.png",山东教育卫视
+rtp://226.0.2.130:8952
+#EXTINF:-1 tvg-name="2026亚沙会" group-title="其它",2026亚沙会
+rtp://226.0.2.121:8880
+#EXTINF:-1 tvg-name="佰乐购" group-title="其它",佰乐购
+rtp://226.0.2.215:9632
+#EXTINF:-1 tvg-id="143" tvg-name="兵器科技" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%85%B5%E5%99%A8%E7%A7%91%E6%8A%80.png",兵器科技
+rtp://226.0.2.223:9696
+#EXTINF:-1 tvg-name="财富天下" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B.png",财富天下
+rtp://226.0.2.139:9024
+#EXTINF:-1 tvg-name="茶" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E8%8C%B6.png",茶
+rtp://226.0.2.213:9616
+#EXTINF:-1 tvg-name="车迷" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E8%BD%A6%E8%BF%B7.png",车迷
+rtp://226.0.2.138:9016
+#EXTINF:-1 tvg-name="大同教育台" group-title="其它",大同教育台
+rtp://226.0.2.232:9772
+#EXTINF:-1 tvg-name="党建" group-title="其它",党建
+rtp://226.0.2.184:9384
+#EXTINF:-1 tvg-id="138" tvg-name="第一剧场" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA.png",第一剧场
+rtp://226.0.2.221:9680
+#EXTINF:-1 tvg-id="436" tvg-name="电视指南" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png",电视指南
+rtp://226.0.2.218:9656
+#EXTINF:-1 tvg-id="175" tvg-name="动漫秀场" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA.png",动漫秀场
+rtp://226.0.2.183:9376
+#EXTINF:-1 tvg-id="350" tvg-name="动作电影" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png",动作电影
+rtp://226.0.2.94:8012
+#EXTINF:-1 tvg-id="178" tvg-name="都市剧场" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA.png",都市剧场
+rtp://226.0.2.81:8560
+#EXTINF:-1 tvg-id="237" tvg-name="发现之旅" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%8F%91%E7%8E%B0%E4%B9%8B%E6%97%85.png",发现之旅
+rtp://226.0.2.118:9884
+#EXTINF:-1 tvg-id="187" tvg-name="法治天地" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0.png",法治天地
+rtp://226.0.2.83:8576
+#EXTINF:-1 tvg-id="139" tvg-name="风云剧场" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA.png",风云剧场
+rtp://226.0.2.227:9728
+#EXTINF:-1 tvg-id="142" tvg-name="风云音乐" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90.png",风云音乐
+rtp://226.0.2.220:9672
+#EXTINF:-1 tvg-id="144" tvg-name="风云足球" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png",风云足球
+rtp://226.0.2.225:9712
+#EXTINF:-1 tvg-id="145" tvg-name="高尔夫网球" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83.png",高尔夫网球
+rtp://226.0.2.217:9648
+#EXTINF:-1 tvg-name="古交台" group-title="其它",古交台
+rtp://226.0.2.192:9448
+#EXTINF:-1 tvg-id="236" tvg-name="国学" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%9B%BD%E5%AD%A6.png",国学
+rtp://226.0.2.116:8840
+#EXTINF:-1 tvg-name="好享购物" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%A5%BD%E4%BA%AB%E8%B4%AD%E7%89%A9.png",好享购物
+rtp://226.0.2.125:8912
+#EXTINF:-1 tvg-id="140" tvg-name="怀旧剧场" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png",怀旧剧场
+rtp://226.0.2.224:9704
+#EXTINF:-1 tvg-name="环球购物" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E8%81%9A%E9%B2%A8%E7%8E%AF%E7%90%83%E7%B2%BE%E9%80%89.png",环球购物
+rtp://226.0.2.122:8888
+#EXTINF:-1 tvg-id="238" tvg-name="环球旅游" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8.png",环球旅游
+rtp://226.0.2.127:8928
+#EXTINF:-1 tvg-id="233" tvg-name="环球奇观" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E7%8E%AF%E7%90%83%E5%A5%87%E8%A7%82.png",环球奇观
+rtp://226.0.2.111:8800
+#EXTINF:-1 tvg-name="黄河卫视" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B1%B1%E8%A5%BF%E9%BB%84%E6%B2%B3.png",黄河卫视
+rtp://226.0.2.12:8008
+#EXTINF:-1 tvg-name="霍州煤电" group-title="其它",霍州煤电
+rtp://226.0.2.157:9892
+#EXTINF:-1 tvg-name="纪实科教" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png",纪实科教
+rtp://226.0.2.141:9040
+#EXTINF:-1 tvg-name="稷山" group-title="其它",稷山
+rtp://226.0.2.171:9188
+#EXTINF:-1 tvg-name="家庭理财" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%AE%B6%E5%BA%AD%E7%90%86%E8%B4%A2.png",家庭理财
+rtp://226.0.2.129:8944
+#EXTINF:-1 tvg-id="517" tvg-name="家庭影院" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png",家庭影院
+rtp://226.0.2.240:9820
+#EXTINF:-1 tvg-name="家有购物" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%AE%B6%E6%9C%89%E8%B4%AD%E7%89%A9.png",家有购物
+rtp://226.0.2.126:8920
+#EXTINF:-1 tvg-id="185" tvg-name="金色学堂" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%87%91%E8%89%B2%E5%AD%A6%E5%A0%82.png",金色学堂
+rtp://226.0.2.182:9368
+#EXTINF:-1 tvg-name="晋能控股" group-title="其它",晋能控股
+rtp://226.0.2.229:9744
+#EXTINF:-1 tvg-name="晋中公共" group-title="其它",晋中公共
+rtp://226.0.2.75:9840
+#EXTINF:-1 tvg-name="晋中综合" group-title="其它",晋中综合
+rtp://226.0.2.74:9832
+#EXTINF:-1 tvg-name="九屏导视" group-title="其它",九屏导视
+rtp://226.0.2.197:9488
+#EXTINF:-1 tvg-name="空中课堂" group-title="其它",空中课堂
+rtp://226.0.2.70:8472
+#EXTINF:-1 tvg-id="173" tvg-name="快乐垂钓" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93.png",快乐垂钓
+rtp://226.0.2.214:9624
+#EXTINF:-1 tvg-id="226" tvg-name="老故事" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E8%80%81%E6%95%85%E4%BA%8B.png",老故事
+rtp://226.0.2.112:8808
+#EXTINF:-1 tvg-id="179" tvg-name="乐游" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E4%B9%90%E6%B8%B8.png",乐游
+rtp://226.0.2.77:8528
+#EXTINF:-1 tvg-name="梨园" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B2%B3%E5%8D%97%E6%A2%A8%E5%9B%AD.png",梨园
+rtp://226.0.2.115:8832
+#EXTINF:-1 tvg-name="灵石综合" group-title="其它",灵石综合
+rtp://226.0.2.91:9872
+#EXTINF:-1 tvg-name="娄烦台" group-title="其它",娄烦台
+rtp://226.0.2.100:9880
+#EXTINF:-1 tvg-name="潞州台" group-title="其它",潞州台
+rtp://226.0.2.117:9888
+#EXTINF:-1 tvg-id="146" tvg-name="女性时尚" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A.png",女性时尚
+rtp://226.0.2.226:9720
+#EXTINF:-1 tvg-name="平定综合" group-title="其它",平定综合
+rtp://226.0.2.88:9860
+#EXTINF:-1 tvg-id="232" tvg-name="汽摩" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B1%BD%E6%91%A9.png",汽摩
+rtp://226.0.2.95:8672
+#EXTINF:-1 tvg-name="清徐台" group-title="其它",清徐台
+rtp://226.0.2.191:9440
+#EXTINF:-1 tvg-name="山西黄河" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B1%B1%E8%A5%BF%E9%BB%84%E6%B2%B3.png",山西黄河
+rtp://226.0.2.235:9792
+#EXTINF:-1 tvg-name="山西经济资讯" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%88%90%E9%83%BD%E7%BB%8F%E6%B5%8E%E8%B5%84%E8%AE%AF.png",山西经济资讯
+rtp://226.0.2.13:8016
+#EXTINF:-1 tvg-id="415" tvg-name="山西科教" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B1%B1%E8%A5%BF%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95%E6%B2%BB.png",山西科教
+rtp://226.0.2.15:8032
+#EXTINF:-1 tvg-id="188" tvg-name="生活时尚" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png",生活时尚
+rtp://226.0.2.84:8584
+#EXTINF:-1 tvg-name="生态环境" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E7%94%9F%E6%80%81%E7%8E%AF%E5%A2%83.png",生态环境
+rtp://226.0.2.120:8872
+#EXTINF:-1 tvg-id="141" tvg-name="世界地理" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86.png",世界地理
+rtp://226.0.2.222:9688
+#EXTINF:-1 tvg-name="收藏天下" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%94%B6%E8%97%8F%E5%A4%A9%E4%B8%8B.png",收藏天下
+rtp://226.0.2.132:8968
+#EXTINF:-1 tvg-name="寿阳新闻台" group-title="其它",寿阳新闻台
+rtp://226.0.2.107:9108
+#EXTINF:-1 tvg-id="241" tvg-name="书画" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E4%B9%A6%E7%94%BB.png",书画
+rtp://226.0.2.102:8728
+#EXTINF:-1 tvg-name="朔州1" group-title="其它",朔州1
+rtp://226.0.2.185:9392
+#EXTINF:-1 tvg-name="朔州2" group-title="其它",朔州2
+rtp://226.0.2.186:9400
+#EXTINF:-1 tvg-id="239" tvg-name="四海钓鱼" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC.png",四海钓鱼
+rtp://226.0.2.123:8896
+#EXTINF:-1 tvg-name="太原1" group-title="其它",太原1
+rtp://226.0.2.201:9520
+#EXTINF:-1 tvg-name="太原2" group-title="其它",太原2
+rtp://226.0.2.202:9528
+#EXTINF:-1 tvg-name="太原3" group-title="其它",太原3
+rtp://226.0.2.203:9536
+#EXTINF:-1 tvg-name="太原4" group-title="其它",太原4
+rtp://226.0.2.204:9544
+#EXTINF:-1 tvg-name="太原5" group-title="其它",太原5
+rtp://226.0.2.205:9552
+#EXTINF:-1 tvg-name="太原教育" group-title="其它",太原教育
+rtp://226.0.2.206:9560
+#EXTINF:-1 tvg-name="天下收藏" group-title="其它",天下收藏
+rtp://226.0.2.124:8904
+#EXTINF:-1 tvg-name="同步课堂" group-title="其它",同步课堂
+rtp://226.0.2.44:8264
+#EXTINF:-1 tvg-name="屯留" group-title="其它",屯留
+rtp://226.0.2.17:9836
+#EXTINF:-1 tvg-id="227" tvg-name="文物宝库" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93.png",文物宝库
+rtp://226.0.2.110:8792
+#EXTINF:-1 tvg-id="229" tvg-name="武术世界" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C.png",武术世界
+rtp://226.0.2.97:8688
+#EXTINF:-1 tvg-name="昔阳台" group-title="其它",昔阳台
+rtp://226.0.2.80:9848
+#EXTINF:-1 tvg-name="孝义" group-title="其它",孝义
+rtp://226.0.2.189:9424
+#EXTINF:-1 tvg-id="283" tvg-name="新动漫" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%96%B0%E5%8A%A8%E6%BC%AB.png",新动漫
+rtp://226.0.2.73:8496
+#EXTINF:-1 tvg-name="央广购物" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%A4%AE%E5%B9%BF%E8%B4%AD%E7%89%A9.png",央广购物
+rtp://226.0.2.230:9752
+#EXTINF:-1 tvg-id="148" tvg-name="央视台球" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83.png",央视台球
+rtp://226.0.2.216:9640
+#EXTINF:-1 tvg-id="147" tvg-name="央视文化精品" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81.png",央视文化精品
+rtp://226.0.2.219:9664
+#EXTINF:-1 tvg-name="阳曲台" group-title="其它",阳曲台
+rtp://226.0.2.196:9480
+#EXTINF:-1 tvg-name="阳泉科教" group-title="其它",阳泉科教
+rtp://226.0.2.234:9784
+#EXTINF:-1 tvg-name="阳泉新闻综合" group-title="其它",阳泉新闻综合
+rtp://226.0.2.233:9776
+#EXTINF:-1 tvg-name="影迷电影" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png",影迷电影
+rtp://226.0.2.93:8004
+#EXTINF:-1 tvg-name="优购物" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E4%BC%98%E8%B4%AD%E7%89%A9.png",优购物
+rtp://226.0.2.131:8960
+#EXTINF:-1 tvg-name="优优宝贝" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E4%BC%98%E4%BC%98%E5%AE%9D%E8%B4%9D.png",优优宝贝
+rtp://226.0.2.119:8864
+#EXTINF:-1 tvg-id="222" tvg-name="游戏风云" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B8%B8%E6%88%8F%E9%A3%8E%E4%BA%91.png",游戏风云
+rtp://226.0.2.78:8536
+#EXTINF:-1 tvg-name="运城1" group-title="其它",运城1
+rtp://226.0.2.158:9896
+#EXTINF:-1 tvg-name="运城2" group-title="其它",运城2
+rtp://226.0.2.105:9010
+#EXTINF:-1 tvg-name="运城3" group-title="其它",运城3
+rtp://226.0.2.106:9006
+#EXTINF:-1 tvg-name="长钢" group-title="其它",长钢
+rtp://226.0.2.87:9856
+#EXTINF:-1 tvg-name="证券服务" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E8%AF%81%E5%88%B8%E6%9C%8D%E5%8A%A1.png",证券服务
+rtp://226.0.2.71:8480
+#EXTINF:-1 tvg-id="255" tvg-name="中国天气" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E4%B8%AD%E5%9B%BD%E5%A4%A9%E6%B0%94.png",中国天气
+rtp://226.0.2.103:8736
+#EXTINF:-1 tvg-id="264" tvg-name="中华特产" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E4%B8%AD%E5%8D%8E%E7%89%B9%E4%BA%A7.png",中华特产
+rtp://226.0.2.128:8936
+#EXTINF:-1 tvg-name="中视购物" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E4%B8%AD%E8%A7%86%E8%B4%AD%E7%89%A9.png",中视购物
+rtp://226.0.2.72:8488
+#EXTINF:-1 tvg-id="26" tvg-name="CCTV4K" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV4K.png",CCTV4K
+rtp://226.0.2.142:9168

@@ -1,0 +1,138 @@
+#EXTM3U
+# 由 zzzzzhy/CHINA-IPTV 自动生成：同步上游 + 补全频道图标
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV1.png",CCTV1
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227479/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV2.png",CCTV2
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227477/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV3.png",CCTV3
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227435/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV4.png",CCTV4
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227373/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV5.png",CCTV5
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227491/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV5%2B.png",CCTV5+
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227493/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV6.png",CCTV6
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227431/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV7.png",CCTV7
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227429/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV8.png",CCTV8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227427/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV9.png",CCTV9
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227425/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV10.png",CCTV10
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227375/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV11.png",CCTV11
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227922/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV12.png",CCTV12
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227377/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV13.png",CCTV13
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227926/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV14.png",CCTV14
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227379/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV15.png",CCTV15
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227933/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV16.png",CCTV16
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227988/index.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CCTV17.png",CCTV17
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227577/index.m3u8
+#EXTINF:-1 tvg-id="25" tvg-name="CGTN" group-title="央视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CGTN.png",CGTN
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228075/index.m3u8
+#EXTINF:-1 tvg-id="87" tvg-name="安徽卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png",安徽卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227363/index.m3u8
+#EXTINF:-1 tvg-id="90" tvg-name="北京卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png",北京卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227397/index.m3u8
+#EXTINF:-1 tvg-id="77" tvg-name="重庆卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png",重庆卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227359/index.m3u8
+#EXTINF:-1 tvg-id="80" tvg-name="东方卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png",东方卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227401/index.m3u8
+#EXTINF:-1 tvg-id="99" tvg-name="甘肃卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png",甘肃卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227937/index.m3u8
+#EXTINF:-1 tvg-id="82" tvg-name="广东卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png",广东卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227361/index.m3u8
+#EXTINF:-1 tvg-id="103" tvg-name="广西卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png",广西卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227939/index.m3u8
+#EXTINF:-1 tvg-id="79" tvg-name="贵州卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png",贵州卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227357/index.m3u8
+#EXTINF:-1 tvg-id="97" tvg-name="海南卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png",海南卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227946/index.m3u8
+#EXTINF:-1 tvg-id="93" tvg-name="河北卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png",河北卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227399/index.m3u8
+#EXTINF:-1 tvg-id="100" tvg-name="河南卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png",河南卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227923/index.m3u8
+#EXTINF:-1 tvg-id="92" tvg-name="黑龙江卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",黑龙江卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227347/index.m3u8
+#EXTINF:-1 tvg-id="85" tvg-name="湖北卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png",湖北卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227367/index.m3u8
+#EXTINF:-1 tvg-id="81" tvg-name="湖南卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png",湖南卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227369/index.m3u8
+#EXTINF:-1 tvg-id="98" tvg-name="吉林卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png",吉林卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227935/index.m3u8
+#EXTINF:-1 tvg-id="91" tvg-name="江苏卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png",江苏卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227421/index.m3u8
+#EXTINF:-1 tvg-id="95" tvg-name="江西卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png",江西卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227355/index.m3u8
+#EXTINF:-1 tvg-id="86" tvg-name="辽宁卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png",辽宁卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227345/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="内蒙古卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png",内蒙古卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227181/index.m3u8
+#EXTINF:-1 tvg-id="108" tvg-name="宁夏卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png",宁夏卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227119/index.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="青海卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png",青海卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227123/index.m3u8
+#EXTINF:-1 tvg-id="89" tvg-name="山东卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png",山东卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227365/index.m3u8
+#EXTINF:-1 tvg-id="109" tvg-name="山西卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png",山西卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227183/index.m3u8
+#EXTINF:-1 tvg-id="102" tvg-name="陕西卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png",陕西卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228078/index.m3u8
+#EXTINF:-1 tvg-id="83" tvg-name="深圳卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png",深圳卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227419/index.m3u8
+#EXTINF:-1 tvg-id="78" tvg-name="四川卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png",四川卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227417/index.m3u8
+#EXTINF:-1 tvg-id="84" tvg-name="天津卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png",天津卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227343/index.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="西藏卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png",西藏卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227131/index.m3u8
+#EXTINF:-1 tvg-id="105" tvg-name="新疆卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png",新疆卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227117/index.m3u8
+#EXTINF:-1 tvg-id="94" tvg-name="云南卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png",云南卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227962/index.m3u8
+#EXTINF:-1 tvg-id="88" tvg-name="浙江卫视" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",浙江卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227351/index.m3u8
+#EXTINF:-1 tvg-id="151" tvg-name="CETV1" group-title="教育" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CETV1.png",CETV1
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227339/index.m3u8
+#EXTINF:-1 tvg-id="152" tvg-name="CETV2" group-title="教育" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CETV2.png",CETV2
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227940/index.m3u8
+#EXTINF:-1 tvg-id="154" tvg-name="CETV4" group-title="教育" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/CETV4.png",CETV4
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228104/index.m3u8
+#EXTINF:-1 tvg-id="221" tvg-name="山东教育卫视" group-title="教育" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2.png",山东教育卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227945/index.m3u8
+#EXTINF:-1 tvg-id="96" tvg-name="东南卫视" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png",东南卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227353/index.m3u8
+#EXTINF:-1 tvg-id="107" tvg-name="厦门卫视" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86.png",厦门卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227938/index.m3u8
+#EXTINF:-1 tvg-id="289" tvg-name="三沙卫视" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86.png",三沙卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227943/index.m3u8
+#EXTINF:-1 tvg-id="112" tvg-name="延边卫视" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86.png",延边卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227961/index.m3u8
+#EXTINF:-1 tvg-id="113" tvg-name="四川经济" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%9B%9B%E5%B7%9D%E7%BB%8F%E6%B5%8E.png",四川经济
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227415/index.m3u8
+#EXTINF:-1 tvg-id="114" tvg-name="四川文化旅游" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%9B%9B%E5%B7%9D%E6%96%87%E5%8C%96%E6%97%85%E6%B8%B8.png",四川文化旅游
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227413/index.m3u8
+#EXTINF:-1 tvg-id="115" tvg-name="四川新闻" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%9B%9B%E5%B7%9D%E6%96%B0%E9%97%BB.png",四川新闻
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227411/index.m3u8
+#EXTINF:-1 tvg-id="116" tvg-name="四川影视文艺" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%9B%9B%E5%B7%9D%E5%BD%B1%E8%A7%86%E6%96%87%E8%89%BA.png",四川影视文艺
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227409/index.m3u8
+#EXTINF:-1 tvg-name="四川星空购物" group-title="地方",四川星空购物
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227407/index.m3u8
+#EXTINF:-1 tvg-id="118" tvg-name="四川科教" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%9B%9B%E5%B7%9D%E7%A7%91%E6%95%99.png",四川科教
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227936/index.m3u8
+#EXTINF:-1 tvg-name="四川妇儿" group-title="地方",四川妇儿
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227405/index.m3u8
+#EXTINF:-1 tvg-id="119" tvg-name="四川乡村" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%9B%9B%E5%B7%9D%E4%B9%A1%E6%9D%91.png",四川乡村
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227403/index.m3u8
+#EXTINF:-1 tvg-id="111" tvg-name="康巴卫视" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%BA%B7%E5%B7%B4%E5%8D%AB%E8%A7%86.png",康巴卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227629/index.m3u8
+#EXTINF:-1 tvg-id="110" tvg-name="兵团卫视" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png",兵团卫视
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227934/index.m3u8

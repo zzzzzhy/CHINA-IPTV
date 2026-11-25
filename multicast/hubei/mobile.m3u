@@ -1,0 +1,6 @@
+#EXTM3U
+# 由 zzzzzhy/CHINA-IPTV 自动生成：同步上游 + 补全频道图标
+#EXTINF:-1 tvg-id="300" tvg-name="湖北经视" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E6%B9%96%E5%8D%97%E7%BB%8F%E8%A7%86.png",湖北经视
+rtp://226.0.0.19:6108
+#EXTINF:-1 tvg-id="301" tvg-name="湖北综合" group-title="其它" tvg-logo="https://cdn.jsdelivr.net/gh/xisohi/CHINA-IPTV@main/logo/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88.png",湖北综合
+rtp://226.0.0.20:6108
